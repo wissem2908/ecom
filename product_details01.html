@@ -271,6 +271,46 @@
         // Initial price update
         updateTotalPrice();
       });
+
+
+
+      
+  // Handle form submission
+  document.getElementById('orderForm').addEventListener('submit', function (e) {
+    e.preventDefault(); // Prevent the form from submitting the traditional way
+
+    // Get form data
+    const formData = {
+      nom: document.getElementById('nom').value,
+      prenom: document.getElementById('prenom').value,
+      telephone: document.getElementById('telephone').value,
+      wilaya: document.getElementById('wilaya').value,
+      commune: document.getElementById('commune').value,
+      adresse: document.getElementById('adresse').value,
+      quantite: document.getElementById('quantite').value,
+      productPrice: document.getElementById('productPriceValue').textContent,
+      deliveryPrice: document.getElementById('deliveryPriceValue').textContent,
+      totalPrice: document.getElementById('totalPriceValue').textContent
+    };
+
+    // Send data to Google Sheets
+    fetch('https://script.google.com/macros/s/AKfycbymZF6BEHdu4gXQKOEcraMi6U1IrJT3kGKyoga1Gj8/exec', {
+      method: 'POST',
+      body: JSON.stringify(formData),
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
+      .then(response => response.text())
+      .then(message => {
+        alert(message); // Show success message
+        document.getElementById('orderForm').reset(); // Reset the form
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        alert('حدث خطأ أثناء إرسال البيانات!');
+      });
+  });
   </script>
         <!-- Related items section-->
         <section class="py-5 bg-light">
