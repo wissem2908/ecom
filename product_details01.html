@@ -96,7 +96,7 @@
                         <h1 class="display-5 fw-bolder">  منظم مظلة الشمس للسيارة</h1>
                         <div class="fs-5 mb-5">
                             <!-- <span class="text-decoration-line-through">$45.00</span> -->
-                            <span>2400 دج </span>
+                            <span id="product_price">2400 دج </span>
                         </div>
                         <p class="lead">- حل مثالي للتخزين والتنظيم! 🚗
                             ✔ وداعًا للفوضى! اجعل سيارتك أكثر ترتيبًا مع منظم مظلة الشمس متعدد الوظائف، المصمم لتخزين الأغراض الصغيرة بطريقة عملية وسهلة الوصول. استمتع بقيادة مريحة ومنظمة!
@@ -204,6 +204,7 @@
         </script>
 
 
+<!-- JavaScript -->
 <script>
     // Fetch the JSON data
     fetch('algerian_wilayas_delivery.json')
@@ -215,9 +216,10 @@
         const deliveryPriceValue = document.getElementById('deliveryPriceValue');
         const totalPriceValue = document.getElementById('totalPriceValue');
         const quantiteInput = document.getElementById('quantite');
+        const productPriceSpan = document.getElementById('product_price');
   
-        // Product price (example: 5000 DZD)
-        const productPrice = 5000;
+        // Extract the product price from the span
+        const productPrice = parseFloat(productPriceSpan.textContent.replace(/\D/g, '')); // Extract numeric value
   
         // Populate wilaya dropdown
         data.wilayas.forEach(wilaya => {
@@ -259,10 +261,11 @@
         function updateTotalPrice() {
           const quantity = parseInt(quantiteInput.value) || 0;
           const deliveryPrice = parseInt(deliveryPriceValue.textContent) || 0;
-          const totalPrice = productPrice * quantity + deliveryPrice;
+          const totalProductPrice = productPrice * quantity; // Calculate product price based on quantity
+          const totalPrice = totalProductPrice + deliveryPrice; // Add delivery price
   
-          productPriceValue.textContent = productPrice * quantity;
-          totalPriceValue.textContent = totalPrice;
+          productPriceValue.textContent = totalProductPrice; // Display product price
+          totalPriceValue.textContent = totalPrice; // Display total price
         }
   
         // Initial price update
