@@ -1,0 +1,358 @@
+{
+    "wilayas": [
+      {
+        "wilaya_code": "01",
+        "wilaya_name_ar": "أدرار",
+        "wilaya_name_fr": "Adrar",
+        "delivery_price": 1200,
+        "communes": [
+          {
+            "commune_code": "0101",
+            "commune_name_ar": "أدرار",
+            "commune_name_fr": "Adrar"
+          },
+          {
+            "commune_code": "0102",
+            "commune_name_ar": "تمست",
+            "commune_name_fr": "Tamest"
+          },
+          {
+            "commune_code": "0103",
+            "commune_name_ar": "رقان",
+            "commune_name_fr": "Reggane"
+          },
+          {
+            "commune_code": "0104",
+            "commune_name_ar": "إن زغمير",
+            "commune_name_fr": "In Zghmir"
+          },
+          {
+            "commune_code": "0105",
+            "commune_name_ar": "تيت",
+            "commune_name_fr": "Tit"
+          },
+          {
+            "commune_code": "0106",
+            "commune_name_ar": "قصر قدور",
+            "commune_name_fr": "Ksar Kaddour"
+          },
+          {
+            "commune_code": "0107",
+            "commune_name_ar": "تسابيت",
+            "commune_name_fr": "Tsabit"
+          },
+          {
+            "commune_code": "0108",
+            "commune_name_ar": "تيميمون",
+            "commune_name_fr": "Timimoun"
+          },
+          {
+            "commune_code": "0109",
+            "commune_name_ar": "أولاد سعيد",
+            "commune_name_fr": "Ouled Said"
+          },
+          {
+            "commune_code": "0110",
+            "commune_name_ar": "زاوية كنتة",
+            "commune_name_fr": "Zaouiet Kounta"
+          },
+          {
+            "commune_code": "0111",
+            "commune_name_ar": "أولف",
+            "commune_name_fr": "Aoulef"
+          },
+          {
+            "commune_code": "0112",
+            "commune_name_ar": "فنوغيل",
+            "commune_name_fr": "Fenoughil"
+          },
+          {
+            "commune_code": "0113",
+            "commune_name_ar": "تامنطيت",
+            "commune_name_fr": "Tamentit"
+          },
+          {
+            "commune_code": "0114",
+            "commune_name_ar": "بودة",
+            "commune_name_fr": "Bouda"
+          }
+        ]
+      },
+      {
+        "wilaya_code": "02",
+        "wilaya_name_ar": "الشلف",
+        "wilaya_name_fr": "Chlef",
+        "delivery_price": 800,
+        "communes": [
+          {
+            "commune_code": "0201",
+            "commune_name_ar": "الشلف",
+            "commune_name_fr": "Chlef"
+          },
+          {
+            "commune_code": "0202",
+            "commune_name_ar": "تنس",
+            "commune_name_fr": "Tenes"
+          },
+          {
+            "commune_code": "0203",
+            "commune_name_ar": "بنايرية",
+            "commune_name_fr": "Benairia"
+          },
+          {
+            "commune_code": "0204",
+            "commune_name_ar": "الكريمية",
+            "commune_name_fr": "El Karimia"
+          },
+          {
+            "commune_code": "0205",
+            "commune_name_ar": "تاجنة",
+            "commune_name_fr": "Tadjna"
+          },
+          {
+            "commune_code": "0206",
+            "commune_name_ar": "تاوقريت",
+            "commune_name_fr": "Taougrite"
+          },
+          {
+            "commune_code": "0207",
+            "commune_name_ar": "بني حواء",
+            "commune_name_fr": "Beni Haoua"
+          },
+          {
+            "commune_code": "0208",
+            "commune_name_ar": "الصبحة",
+            "commune_name_fr": "Sobha"
+          },
+          {
+            "commune_code": "0209",
+            "commune_name_ar": "حرشون",
+            "commune_name_fr": "Harchoun"
+          },
+          {
+            "commune_code": "0210",
+            "commune_name_ar": "أولاد فارس",
+            "commune_name_fr": "Ouled Fares"
+          },
+          {
+            "commune_code": "0211",
+            "commune_name_ar": "الزبوجة",
+            "commune_name_fr": "Zeboudja"
+          },
+          {
+            "commune_code": "0212",
+            "commune_name_ar": "وادي الفضة",
+            "commune_name_fr": "Oued Fodda"
+          },
+          {
+            "commune_code": "0213",
+            "commune_name_ar": "أولاد عباس",
+            "commune_name_fr": "Ouled Abbes"
+          },
+          {
+            "commune_code": "0214",
+            "commune_name_ar": "بوقادير",
+            "commune_name_fr": "Boukadir"
+          },
+          {
+            "commune_code": "0215",
+            "commune_name_ar": "بني راشد",
+            "commune_name_fr": "Beni Rached"
+          },
+          {
+            "commune_code": "0216",
+            "commune_name_ar": "تلعصة",
+            "commune_name_fr": "Talassa"
+          },
+          {
+            "commune_code": "0217",
+            "commune_name_ar": "هرنفة",
+            "commune_name_fr": "Herenfa"
+          },
+          {
+            "commune_code": "0218",
+            "commune_name_ar": "وادي قوسين",
+            "commune_name_fr": "Oued Goussine"
+          },
+          {
+            "commune_code": "0219",
+            "commune_name_ar": "الظهرة",
+            "commune_name_fr": "Dahra"
+          },
+          {
+            "commune_code": "0220",
+            "commune_name_ar": "أولاد بن عبد القادر",
+            "commune_name_fr": "Ouled Ben Abdelkader"
+          },
+          {
+            "commune_code": "0221",
+            "commune_name_ar": "سنجاس",
+            "commune_name_fr": "Sendjas"
+          },
+          {
+            "commune_code": "0222",
+            "commune_name_ar": "الزبوجة",
+            "commune_name_fr": "Zeboudja"
+          },
+          {
+            "commune_code": "0223",
+            "commune_name_ar": "وادي سلي",
+            "commune_name_fr": "Oued Sly"
+          },
+          {
+            "commune_code": "0224",
+            "commune_name_ar": "أبو الحسن",
+            "commune_name_fr": "Abou El Hassen"
+          },
+          {
+            "commune_code": "0225",
+            "commune_name_ar": "المرسى",
+            "commune_name_fr": "El Marsa"
+          },
+          {
+            "commune_code": "0226",
+            "commune_name_ar": "شطية",
+            "commune_name_fr": "Chettia"
+          },
+          {
+            "commune_code": "0227",
+            "commune_name_ar": "سيدي عكاشة",
+            "commune_name_fr": "Sidi Akkacha"
+          },
+          {
+            "commune_code": "0228",
+            "commune_name_ar": "الحجاج",
+            "commune_name_fr": "El Hadjadj"
+          },
+          {
+            "commune_code": "0229",
+            "commune_name_ar": "الأبيض مجاجة",
+            "commune_name_fr": "Labiod Medjadja"
+          },
+          {
+            "commune_code": "0230",
+            "commune_name_ar": "وادي قوسين",
+            "commune_name_fr": "Oued Goussine"
+          },
+          {
+            "commune_code": "0231",
+            "commune_name_ar": "عين مران",
+            "commune_name_fr": "Ain Merane"
+          },
+          {
+            "commune_code": "0232",
+            "commune_name_ar": "أم الدروع",
+            "commune_name_fr": "Oum Drou"
+          }
+        ]
+      },
+      {
+        "wilaya_code": "03",
+        "wilaya_name_ar": "الأغواط",
+        "wilaya_name_fr": "Laghouat",
+        "delivery_price": 1000,
+        "communes": [
+          {
+            "commune_code": "0301",
+            "commune_name_ar": "الأغواط",
+            "commune_name_fr": "Laghouat"
+          },
+          {
+            "commune_code": "0302",
+            "commune_name_ar": "قصر الحيران",
+            "commune_name_fr": "Ksar El Hirane"
+          },
+          {
+            "commune_code": "0303",
+            "commune_name_ar": "بن ناصر بن شهرة",
+            "commune_name_fr": "Benacer Ben Chohra"
+          },
+          {
+            "commune_code": "0304",
+            "commune_name_ar": "حاسي الرمل",
+            "commune_name_fr": "Hassi R'Mel"
+          },
+          {
+            "commune_code": "0305",
+            "commune_name_ar": "تاجموت",
+            "commune_name_fr": "Tadjmout"
+          },
+          {
+            "commune_code": "0306",
+            "commune_name_ar": "الخنق",
+            "commune_name_fr": "Kheneg"
+          },
+          {
+            "commune_code": "0307",
+            "commune_name_ar": "قلتة سيدي سعد",
+            "commune_name_fr": "Gueltat Sidi Saad"
+          },
+          {
+            "commune_code": "0308",
+            "commune_name_ar": "عين ماضي",
+            "commune_name_fr": "Ain Madhi"
+          },
+          {
+            "commune_code": "0309",
+            "commune_name_ar": "تاجرونة",
+            "commune_name_fr": "Tadjrouna"
+          },
+          {
+            "commune_code": "0310",
+            "commune_name_ar": "الغيشة",
+            "commune_name_fr": "El Ghicha"
+          },
+          {
+            "commune_code": "0311",
+            "commune_name_ar": "حاسي الدلاعة",
+            "commune_name_fr": "Hassi Delaa"
+          },
+          {
+            "commune_code": "0312",
+            "commune_name_ar": "تاويالة",
+            "commune_name_fr": "Taouiala"
+          },
+          {
+            "commune_code": "0313",
+            "commune_name_ar": "سيدي مخلوف",
+            "commune_name_fr": "Sidi Makhlouf"
+          },
+          {
+            "commune_code": "0314",
+            "commune_name_ar": "العسافية",
+            "commune_name_fr": "El Assafia"
+          },
+          {
+            "commune_code": "0315",
+            "commune_name_ar": "وادي مرة",
+            "commune_name_fr": "Oued Morra"
+          },
+          {
+            "commune_code": "0316",
+            "commune_name_ar": "بريدة",
+            "commune_name_fr": "Brida"
+          },
+          {
+            "commune_code": "0317",
+            "commune_name_ar": "الحويطة",
+            "commune_name_fr": "El Haouaita"
+          },
+          {
+            "commune_code": "0318",
+            "commune_name_ar": "سيدي بوزيد",
+            "commune_name_fr": "Sidi Bouzid"
+          },
+          {
+            "commune_code": "0319",
+            "commune_name_ar": "سبقاق",
+            "commune_name_fr": "Sebgag"
+          },
+          {
+            "commune_code": "0320",
+            "commune_name_ar": "تقرت",
+            "commune_name_fr": "Touggourt"
+          }
+        ]
+      }
+    ]
+  }
