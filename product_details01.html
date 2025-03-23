@@ -160,6 +160,7 @@
         <input  type="hidden" name="productPriceValue" />   
         <input  type="hidden" name="deliveryPriceValue" />  
         <input  type="hidden" name="totalPriceValue" />  
+        <input type="hidden" name="time" value=""/>    
       </div>
 
                                     <!-- Submit Button -->
@@ -248,6 +249,9 @@
   
             // Update delivery price
             deliveryPriceValue.textContent = selectedWilaya.delivery_price;
+            document.getElementsByName('deliveryPriceValue')[0].value = selectedWilaya.delivery_price;
+
+
             updateTotalPrice();
           } else {
             deliveryPriceValue.textContent = '0';
@@ -269,6 +273,9 @@
   
           productPriceValue.textContent = totalProductPrice; // Display product price
           totalPriceValue.textContent = totalPrice; // Display total price
+
+          document.getElementsByName('productPriceValue')[0].value = totalProductPrice
+          document.getElementsByName('totalPriceValue')[0].value = totalPrice
         }
   
         // Initial price update
@@ -293,41 +300,7 @@ form.addEventListener('submit', e => {
   .catch(error => console.error('Error!', error.message))
 })
       
-//       document.getElementById('orderForm').addEventListener('submit', function (e) {
-//   e.preventDefault(); // Prevent the form from submitting the traditional way
 
-//   // Get form data
-//   const formData = {
-//     nom: document.getElementById('nom').value,
-//     prenom: document.getElementById('prenom').value,
-//     telephone: document.getElementById('telephone').value,
-//     wilaya: document.getElementById('wilaya').value,
-//     commune: document.getElementById('commune').value,
-//     adresse: document.getElementById('adresse').value,
-//     quantite: document.getElementById('quantite').value,
-//     productPrice: document.getElementById('productPriceValue').textContent,
-//     deliveryPrice: document.getElementById('deliveryPriceValue').textContent,
-//     totalPrice: document.getElementById('totalPriceValue').textContent
-//   };
-
-//   // Construct the URL with query parameters
-//   const url = `https://script.google.com/macros/s/1KEfkZfAK33KUGrVAiDHvH0kMDqMF3dEWXVj7pZNztaXFxhJr6PFDvowT/exec?${new URLSearchParams(formData).toString()}`;
-
-//   // Send data to Google Sheets
-//   fetch(url, {
-//     method: 'GET'
-//   })
-//     .then(response => response.text())
-//     .then(message => {
-//       alert(message); // Show success message
-//       document.getElementById('orderForm').reset(); // Reset the form
-//     })
-//     .catch(error => {
-//       console.error('Error:', error);
-//       alert('حدث خطأ أثناء إرسال البيانات!');
-//     });
-// });
- 
  
  </script>
         <!-- Related items section-->
