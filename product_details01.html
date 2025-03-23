@@ -111,45 +111,45 @@
                             <br>
                             🛒 احصل عليه الآن واجعل سيارتك أكثر ترتيبًا وأناقة! 🔥</p>
                             <div class="d-flex flex-column">
-                                <form id="orderForm">
-                                    <!-- Nom -->
+                                <form id="orderForm" method="POST" action="">
+                                    <input  type="hidden" name="produit" value="منظم مظلة الشمس للسيارة"/>                                    <!-- Nom -->
                                     <div class="mb-3">
                                         <label for="nom" class="form-label">الاسم</label>
-                                        <input type="text" class="form-control" id="nom" placeholder="أدخل الاسم" required>
+                                        <input type="text" class="form-control" id="nom" name="nom" placeholder="أدخل الاسم" required>
                                     </div>
                                     <!-- Prénom -->
                                     <div class="mb-3">
                                         <label for="prenom" class="form-label">اللقب</label>
-                                        <input type="text" class="form-control" id="prenom" placeholder="أدخل اللقب" required>
+                                        <input type="text" class="form-control" id="prenom" name="prenom" placeholder="أدخل اللقب" required>
                                     </div>
                                      <!-- Numéro de Téléphone -->
                                      <div class="mb-3">
                                         <label for="telephone" class="form-label">رقم الهاتف</label>
-                                        <input type="tel" class="form-control" id="telephone" placeholder="أدخل رقم الهاتف" required>
+                                        <input type="tel" class="form-control" id="telephone" name="telephone" placeholder="أدخل رقم الهاتف" required>
                                     </div>
                                      <!-- Wilaya -->
                                         <div class="mb-3">
                                             <label for="wilaya" class="form-label">الولاية</label>
-                                            <select class="form-select" id="wilaya" required>
+                                            <select class="form-select" id="wilaya" name="wilaya" required>
                                             <option value="">اختر الولاية</option>
                                             </select>
                                         </div>
                                         <!-- Commune -->
                                         <div class="mb-3">
                                             <label for="commune" class="form-label">البلدية</label>
-                                            <select class="form-select" id="commune" required>
+                                            <select class="form-select" id="commune" name="commune" required>
                                             <option value="">اختر البلدية</option>
                                             </select>
                                         </div>
                                     <!-- Adresse -->
                                     <div class="mb-3">
                                         <label for="adresse" class="form-label">العنوان</label>
-                                        <input type="text" class="form-control" id="adresse" placeholder="أدخل العنوان" required>
+                                        <input type="text" class="form-control" id="adresse" name="adresse" placeholder="أدخل العنوان" required>
                                     </div>
                                     <!-- Quantité -->
                                     <div class="mb-3">
                                         <label for="quantite" class="form-label">الكمية</label>
-                                        <input type="number" class="form-control" id="quantite" value="1" min="1" required>
+                                        <input type="number" class="form-control" id="quantite" name="quantite" value="1" min="1" required>
                                     </div>
                                    
                                         <!-- Price Display -->
@@ -157,6 +157,9 @@
         <p id="productPrice">سعر المنتج: <span id="productPriceValue">0</span> دج</p>
         <p id="deliveryPrice">سعر التوصيل: <span id="deliveryPriceValue">0</span> دج</p>
         <p id="totalPrice">المجموع: <span id="totalPriceValue">0</span> دج</p>
+        <input  type="hidden" name="productPriceValue" />   
+        <input  type="hidden" name="deliveryPriceValue" />  
+        <input  type="hidden" name="totalPriceValue" />  
       </div>
 
                                     <!-- Submit Button -->
@@ -224,21 +227,21 @@
         // Populate wilaya dropdown
         data.wilayas.forEach(wilaya => {
           const option = document.createElement('option');
-          option.value = wilaya.wilaya_code;
+          option.value = wilaya.wilaya_name_ar;
           option.textContent = wilaya.wilaya_name_ar;
           wilayaSelect.appendChild(option);
         });
   
         // Update communes and delivery price when a wilaya is selected
         wilayaSelect.addEventListener('change', () => {
-          const selectedWilaya = data.wilayas.find(w => w.wilaya_code === wilayaSelect.value);
+          const selectedWilaya = data.wilayas.find(w => w.wilaya_name_ar === wilayaSelect.value);
           communeSelect.innerHTML = '<option value="">اختر البلدية</option>'; // Reset communes
   
           if (selectedWilaya) {
             // Populate communes
             selectedWilaya.communes.forEach(commune => {
               const option = document.createElement('option');
-              option.value = commune.commune_code;
+              option.value = commune.commune_name_ar;
               option.textContent = commune.commune_name_ar;
               communeSelect.appendChild(option);
             });
@@ -273,45 +276,60 @@
       });
 
 
+// AKfycbwaljelHkH-R6QDhWcsbJ5jS3bdyIYaHZTitZdz_7JTGGceQWTNa7IJ1t0hvcz6IOlH
+// https://script.google.com/macros/s/AKfycbwaljelHkH-R6QDhWcsbJ5jS3bdyIYaHZTitZdz_7JTGGceQWTNa7IJ1t0hvcz6IOlH/exec
 
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwaljelHkH-R6QDhWcsbJ5jS3bdyIYaHZTitZdz_7JTGGceQWTNa7IJ1t0hvcz6IOlH/exec'
+
+const form =  document.getElementById('orderForm')
+
+form.addEventListener('submit', e => {
+  
+  e.preventDefault()
+  
+  fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+  .then(response => alert("Thank you! Form is submitted" ))
+  .then(() => { window.location.reload(); })
+  .catch(error => console.error('Error!', error.message))
+})
       
-  // Handle form submission
-  document.getElementById('orderForm').addEventListener('submit', function (e) {
-    e.preventDefault(); // Prevent the form from submitting the traditional way
+//       document.getElementById('orderForm').addEventListener('submit', function (e) {
+//   e.preventDefault(); // Prevent the form from submitting the traditional way
 
-    // Get form data
-    const formData = {
-      nom: document.getElementById('nom').value,
-      prenom: document.getElementById('prenom').value,
-      telephone: document.getElementById('telephone').value,
-      wilaya: document.getElementById('wilaya').value,
-      commune: document.getElementById('commune').value,
-      adresse: document.getElementById('adresse').value,
-      quantite: document.getElementById('quantite').value,
-      productPrice: document.getElementById('productPriceValue').textContent,
-      deliveryPrice: document.getElementById('deliveryPriceValue').textContent,
-      totalPrice: document.getElementById('totalPriceValue').textContent
-    };
+//   // Get form data
+//   const formData = {
+//     nom: document.getElementById('nom').value,
+//     prenom: document.getElementById('prenom').value,
+//     telephone: document.getElementById('telephone').value,
+//     wilaya: document.getElementById('wilaya').value,
+//     commune: document.getElementById('commune').value,
+//     adresse: document.getElementById('adresse').value,
+//     quantite: document.getElementById('quantite').value,
+//     productPrice: document.getElementById('productPriceValue').textContent,
+//     deliveryPrice: document.getElementById('deliveryPriceValue').textContent,
+//     totalPrice: document.getElementById('totalPriceValue').textContent
+//   };
 
-    // Send data to Google Sheets
-    fetch('https://script.google.com/macros/s/AKfycbymZF6BEHdu4gXQKOEcraMi6U1IrJT3kGKyoga1Gj8/exec', {
-      method: 'POST',
-      body: JSON.stringify(formData),
-      headers: {
-        'Content-Type': 'application/json'
-      }
-    })
-      .then(response => response.text())
-      .then(message => {
-        alert(message); // Show success message
-        document.getElementById('orderForm').reset(); // Reset the form
-      })
-      .catch(error => {
-        console.error('Error:', error);
-        alert('حدث خطأ أثناء إرسال البيانات!');
-      });
-  });
-  </script>
+//   // Construct the URL with query parameters
+//   const url = `https://script.google.com/macros/s/1KEfkZfAK33KUGrVAiDHvH0kMDqMF3dEWXVj7pZNztaXFxhJr6PFDvowT/exec?${new URLSearchParams(formData).toString()}`;
+
+//   // Send data to Google Sheets
+//   fetch(url, {
+//     method: 'GET'
+//   })
+//     .then(response => response.text())
+//     .then(message => {
+//       alert(message); // Show success message
+//       document.getElementById('orderForm').reset(); // Reset the form
+//     })
+//     .catch(error => {
+//       console.error('Error:', error);
+//       alert('حدث خطأ أثناء إرسال البيانات!');
+//     });
+// });
+ 
+ 
+ </script>
         <!-- Related items section-->
         <section class="py-5 bg-light">
             <div class="container px-4 px-lg-5 mt-5">
