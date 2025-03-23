@@ -292,42 +292,52 @@ const telegramBotToken = '7605122643:AAGNgu3J34Yw_uFqDGfwdWuqjwcLPiuH1II'; // Re
 const chatId = '1867886233'; // Replace with your chat ID
 
 
+
+// https://api.telegram.org/bot7605122643:AAGNgu3J34Yw_uFqDGfwdWuqjwcLPiuH1II/sendMessage?chat_id=1867886233&text=Test+message
+
+
+
 const form =  document.getElementById('orderForm')
 
+
 form.addEventListener('submit', e => {
-  
-  e.preventDefault()
-  
-  fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+  e.preventDefault();
 
-  .then(response => {
-    
-    alert("Thank you! Form is submitted" )
+  fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+    .then(response => {
+      if (response.ok) {
+        alert("Thank you! Form is submitted");
 
-    const message = `New form submission!`; // Customize your message
-    const telegramURL = `https://api.telegram.org/bot${telegramBotToken}/sendMessage`;
+        // Define the message for Telegram
+        const message = `New form submission!`; // Customize this based on your form fields
+        console.log(message); // Debugging: Check the message content
 
-fetch(telegramURL, {
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json',
-  },
-  body: JSON.stringify({
-    chat_id: chatId,
-    text: message,
-  }),
-})
-  .then(telegramResponse => telegramResponse.json()) // Parse the JSON response
-  .then(data => {
-    if (!data.ok) {
-      console.error('Telegram API error:', data.description);
-    }
-  })
-  .catch(error => console.error('Telegram error:', error));
-  })
-  .then(() => { window.location.reload(); })
-  .catch(error => console.error('Error!', error.message))
-})
+        // Send Telegram notification
+        const telegramURL = `https://api.telegram.org/bot${telegramBotToken}/sendMessage`;
+
+        fetch("https://api.telegram.org/bot7605122643:AAGNgu3J34Yw_uFqDGfwdWuqjwcLPiuH1II/sendMessage?chat_id=1867886233&text=Nouvelle+commande", {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+      
+        })
+          .then(telegramResponse => telegramResponse.json()) // Parse the JSON response
+          .then(data => {
+            if (!data.ok) {
+              console.error('Telegram API error:', data.description);
+            }
+          })
+          .catch(error => console.error('Telegram error:', error));
+
+        // Reload the page
+        window.location.reload();
+      } else {
+        console.error('Form submission failed');
+      }
+    })
+    .catch(error => console.error('Error!', error.message));
+});
       
 
  
