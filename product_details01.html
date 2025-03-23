@@ -288,6 +288,10 @@
 
 const scriptURL = 'https://script.google.com/macros/s/AKfycbwaljelHkH-R6QDhWcsbJ5jS3bdyIYaHZTitZdz_7JTGGceQWTNa7IJ1t0hvcz6IOlH/exec'
 
+const telegramBotToken = '7605122643:AAGNgu3J34Yw_uFqDGfwdWuqjwcLPiuH1II'; // Replace with your bot token
+const chatId = '1867886233'; // Replace with your chat ID
+
+
 const form =  document.getElementById('orderForm')
 
 form.addEventListener('submit', e => {
@@ -295,7 +299,32 @@ form.addEventListener('submit', e => {
   e.preventDefault()
   
   fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-  .then(response => alert("Thank you! Form is submitted" ))
+
+  .then(response => {
+    
+    alert("Thank you! Form is submitted" )
+
+    const message = `New form submission!`; // Customize your message
+    const telegramURL = `https://api.telegram.org/bot${telegramBotToken}/sendMessage`;
+
+fetch(telegramURL, {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({
+    chat_id: chatId,
+    text: message,
+  }),
+})
+  .then(telegramResponse => telegramResponse.json()) // Parse the JSON response
+  .then(data => {
+    if (!data.ok) {
+      console.error('Telegram API error:', data.description);
+    }
+  })
+  .catch(error => console.error('Telegram error:', error));
+  })
   .then(() => { window.location.reload(); })
   .catch(error => console.error('Error!', error.message))
 })
@@ -308,101 +337,87 @@ form.addEventListener('submit', e => {
             <div class="container px-4 px-lg-5 mt-5">
                 <h2 class="fw-bolder mb-4">منتجات ذات صلة</h2>
                 <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+               
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="products/p-03-01.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">منتج فاخر</h5>
+                                    <h5 class="fw-bolder"> خلطة ابولين الفلسطيني</h5>
                                     <!-- Product price-->
-                                    $40.00 - $80.00
+                                    1500  دج
                                 </div>
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">عرض الخيارات</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="product_details03.html"> اشتري الان</a></div>
                             </div>
                         </div>
                     </div>
+
                     <div class="col mb-5">
                         <div class="card h-100">
-                            <!-- Sale badge-->
-                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">تخفيض</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="products/p-04-01.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">منتج خاص</h5>
-                                    <!-- Product reviews-->
-                                    <div class="d-flex justify-content-center small text-warning mb-2">
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                    </div>
+                                    <h5 class="fw-bolder">   مسك الرمان الطبيعي الاصلي</h5>
                                     <!-- Product price-->
-                                    <span class="text-muted text-decoration-line-through">$20.00</span>
-                                    $18.00
+                                    1600  دج
                                 </div>
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">إضافة إلى السلة</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="product_details04.html"> اشتري الان</a></div>
                             </div>
                         </div>
                     </div>
+
+
+
                     <div class="col mb-5">
                         <div class="card h-100">
-                            <!-- Sale badge-->
-                            <div class="badge bg-dark text-white position-absolute" style="top: 0.5rem; right: 0.5rem">تخفيض</div>
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="products/p-05-01.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">منتج مخفض</h5>
+                                    <h5 class="fw-bolder">     جهاز طرد الحيوانات بالموجات فوق الصوتية  </h5>
                                     <!-- Product price-->
-                                    <span class="text-muted text-decoration-line-through">$50.00</span>
-                                    $25.00
+                                    5400   دج
                                 </div>
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">إضافة إلى السلة</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="product_details05.html"> اشتري الان</a></div>
                             </div>
                         </div>
                     </div>
+
+
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="..." />
+                            <img class="card-img-top" src="products/p-06-01.jpg" alt="..." />
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <!-- Product name-->
-                                    <h5 class="fw-bolder">منتج شائع</h5>
-                                    <!-- Product reviews-->
-                                    <div class="d-flex justify-content-center small text-warning mb-2">
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                        <div class="bi-star-fill"></div>
-                                    </div>
+                                    <h5 class="fw-bolder">    طقم مسك الغزال + مسك الاسود  </h5>
                                     <!-- Product price-->
-                                    $40.00
+                                    2000    دج
                                 </div>
                             </div>
                             <!-- Product actions-->
                             <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">إضافة إلى السلة</a></div>
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="product_details06.html"> اشتري الان</a></div>
                             </div>
                         </div>
                     </div>
