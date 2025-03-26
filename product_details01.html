@@ -21,7 +21,7 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="تبديل التنقل"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">الرئيسية</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.html">الرئيسية</a></li>
                         <li class="nav-item"><a class="nav-link" href="#!">من نحن</a></li>
                         <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">المتجر</a>
@@ -154,9 +154,9 @@
                                    
                                         <!-- Price Display -->
     <div class="mb-3">
-        <p id="productPrice">سعر المنتج: <span id="productPriceValue">0</span> دج</p>
-        <p id="deliveryPrice">سعر التوصيل: <span id="deliveryPriceValue">0</span> دج</p>
-        <p id="totalPrice">المجموع: <span id="totalPriceValue">0</span> دج</p>
+        <b><p id="productPrice">سعر المنتج: <span id="productPriceValue">0</span> دج</p></b>
+        <b><p id="deliveryPrice">سعر التوصيل: <span id="deliveryPriceValue">0</span> دج</p></b>
+        <b><p id="totalPrice">المجموع: <span id="totalPriceValue">0</span> دج</p></b>
         <input  type="hidden" name="productPriceValue" />   
         <input  type="hidden" name="deliveryPriceValue" />  
         <input  type="hidden" name="totalPriceValue" />  
@@ -164,7 +164,7 @@
       </div>
 
                                     <!-- Submit Button -->
-                                    <button type="submit" class="btn btn-outline-dark w-100">
+                                    <button type="submit" class="btn btn-success w-100">
                                         <i class="bi-cart-fill me-1"></i>
                                         تأكيد الطلب
                                     </button>
@@ -306,14 +306,14 @@ form.addEventListener('submit', e => {
   fetch(scriptURL, { method: 'POST', body: new FormData(form) })
     .then(response => {
       if (response.ok) {
-        alert("Thank you! Form is submitted");
+        alert("شكرا . تم تاكيد الطلبية");
 
         // Define the message for Telegram
         const message = `New form submission!`; // Customize this based on your form fields
         console.log(message); // Debugging: Check the message content
 
         // Send Telegram notification
-        const telegramURL = `https://api.telegram.org/bot${telegramBotToken}/sendMessage`;
+       // const telegramURL = `https://api.telegram.org/bot${telegramBotToken}/sendMessage`;
 
         fetch("https://api.telegram.org/bot7605122643:AAGNgu3J34Yw_uFqDGfwdWuqjwcLPiuH1II/sendMessage?chat_id=1867886233&text=Nouvelle+commande", {
           method: 'POST',
@@ -436,7 +436,7 @@ form.addEventListener('submit', e => {
         </section>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container"><p class="m-0 text-center text-white">حقوق النشر &copy; موقعك 2023</p></div>
+            <div class="container"><p class="m-0 text-center text-white"> Copyright  &copy; 2025 <a href="https://wissem2908.github.io/"  target="_blank">OMRI WISSEM</a>  </p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>

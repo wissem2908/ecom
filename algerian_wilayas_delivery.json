@@ -4,7 +4,7 @@
         "wilaya_code": "01",
         "wilaya_name_ar": "أدرار",
         "wilaya_name_fr": "Adrar",
-        "delivery_price": 1200,
+        "delivery_price": 1000 ,
         "communes": [
           {
             "commune_code": "0101",
@@ -82,7 +82,7 @@
         "wilaya_code": "02",
         "wilaya_name_ar": "الشلف",
         "wilaya_name_fr": "Chlef",
-        "delivery_price": 800,
+        "delivery_price": 600,
         "communes": [
           {
             "commune_code": "0201",
@@ -250,7 +250,7 @@
         "wilaya_code": "03",
         "wilaya_name_ar": "الأغواط",
         "wilaya_name_fr": "Laghouat",
-        "delivery_price": 1000,
+        "delivery_price": 750,
         "communes": [
           {
             "commune_code": "0301",
@@ -353,6 +353,5190 @@
             "commune_name_fr": "Touggourt"
           }
         ]
-      }
+      },
+      {
+        "wilaya_code": "04",
+        "wilaya_name_ar": "أم البواقي",
+        "wilaya_name_fr": "Oum El Bouaghi",
+        "delivery_price": 700,
+        "communes": [
+          {
+            "commune_code": "0401",
+            "commune_name_ar": "أم البواقي",
+            "commune_name_fr": "Oum El Bouaghi"
+          },
+          {
+            "commune_code": "0402",
+            "commune_name_ar": "عين البيضاء",
+            "commune_name_fr": "Ain Beida"
+          },
+          {
+            "commune_code": "0403",
+            "commune_name_ar": "عين مليلة",
+            "commune_name_fr": "Ain M'lila"
+          },
+          {
+            "commune_code": "0404",
+            "commune_name_ar": "بريكة",
+            "commune_name_fr": "Berriche"
+          },
+          {
+            "commune_code": "0405",
+            "commune_name_ar": "العامرية",
+            "commune_name_fr": "El Amiria"
+          },
+          {
+            "commune_code": "0406",
+            "commune_name_ar": "سيقوس",
+            "commune_name_fr": "Sigus"
+          },
+          {
+            "commune_code": "0407",
+            "commune_name_ar": "الضلعة",
+            "commune_name_fr": "Dhalaa"
+          },
+          {
+            "commune_code": "0408",
+            "commune_name_ar": "فكيرينة",
+            "commune_name_fr": "F'kirina"
+          },
+          {
+            "commune_code": "0409",
+            "commune_name_ar": "مسكيانة",
+            "commune_name_fr": "Meskiana"
+          },
+          {
+            "commune_code": "0410",
+            "commune_name_ar": "العوينات",
+            "commune_name_fr": "El Aouinet"
+          },
+          {
+            "commune_code": "0411",
+            "commune_name_ar": "عين بابوش",
+            "commune_name_fr": "Ain Babouche"
+          },
+          {
+            "commune_code": "0412",
+            "commune_name_ar": "سوق نعمان",
+            "commune_name_fr": "Souk Naamane"
+          },
+          {
+            "commune_code": "0413",
+            "commune_name_ar": "الزرق",
+            "commune_name_fr": "El Zaroug"
+          },
+          {
+            "commune_code": "0414",
+            "commune_name_ar": "بئر الشهداء",
+            "commune_name_fr": "Bir Chouhada"
+          },
+          {
+            "commune_code": "0415",
+            "commune_name_ar": "عين فكرون",
+            "commune_name_fr": "Ain Fakroun"
+          },
+          {
+            "commune_code": "0416",
+            "commune_name_ar": "الرحية",
+            "commune_name_fr": "Rahia"
+          },
+          {
+            "commune_code": "0417",
+            "commune_name_ar": "البلالة",
+            "commune_name_fr": "El Belala"
+          },
+          {
+            "commune_code": "0418",
+            "commune_name_ar": "عين الزيتون",
+            "commune_name_fr": "Ain Zitoun"
+          },
+          {
+            "commune_code": "0419",
+            "commune_name_ar": "وادي نيني",
+            "commune_name_fr": "Oued Nini"
+          },
+          {
+            "commune_code": "0420",
+            "commune_name_ar": "مشيرة",
+            "commune_name_fr": "Mechroha"
+          },
+          {
+            "commune_code": "0421",
+            "commune_name_ar": "بئر مقدم",
+            "commune_name_fr": "Bir Mokkadem"
+          },
+          {
+            "commune_code": "0422",
+            "commune_name_ar": "تغزوت",
+            "commune_name_fr": "Taghzout"
+          },
+          {
+            "commune_code": "0423",
+            "commune_name_ar": "الهاشمية",
+            "commune_name_fr": "El Hassi"
+          },
+          {
+            "commune_code": "0424",
+            "commune_name_ar": "العلمين",
+            "commune_name_fr": "El Alia"
+          },
+          {
+            "commune_code": "0425",
+            "commune_name_ar": "عين كرشة",
+            "commune_name_fr": "Ain Kercha"
+          },
+          {
+            "commune_code": "0426",
+            "commune_name_ar": "سفيان",
+            "commune_name_fr": "Safiet El Amri"
+          },
+          {
+            "commune_code": "0427",
+            "commune_name_ar": "بوشقوف",
+            "commune_name_fr": "Bouchegouf"
+          },
+          {
+            "commune_code": "0428",
+            "commune_name_ar": "تاورغاء",
+            "commune_name_fr": "Taoura"
+          }
+        ]
+      }, {
+        "wilaya_code": "05",
+        "wilaya_name_ar": "باتنة",
+        "wilaya_name_fr": "Batna",
+        "delivery_price": 700,
+        "communes": [
+          {
+            "commune_code": "0501",
+            "commune_name_ar": "باتنة",
+            "commune_name_fr": "Batna"
+          },
+          {
+            "commune_code": "0502",
+            "commune_name_ar": "غسيرة",
+            "commune_name_fr": "Ghassira"
+          },
+          {
+            "commune_code": "0503",
+            "commune_name_ar": "معافة",
+            "commune_name_fr": "Maafa"
+          },
+          {
+            "commune_code": "0504",
+            "commune_name_ar": "أولاد عمار",
+            "commune_name_fr": "Ouled Ammar"
+          },
+          {
+            "commune_code": "0505",
+            "commune_name_ar": "عين جاسر",
+            "commune_name_fr": "Ain Djasser"
+          },
+          {
+            "commune_code": "0506",
+            "commune_name_ar": "أولاد سي أحمد",
+            "commune_name_fr": "Ouled Si Slimane"
+          },
+          {
+            "commune_code": "0507",
+            "commune_name_ar": "تاقيط",
+            "commune_name_fr": "T'Kout"
+          },
+          {
+            "commune_code": "0508",
+            "commune_name_ar": "بريكة",
+            "commune_name_fr": "Barika"
+          },
+          {
+            "commune_code": "0509",
+            "commune_name_ar": "الجزار",
+            "commune_name_fr": "Djezzar"
+          },
+          {
+            "commune_code": "0510",
+            "commune_name_ar": "تكوت",
+            "commune_name_fr": "Tikobain"
+          },
+          {
+            "commune_code": "0511",
+            "commune_name_ar": "عين التوتة",
+            "commune_name_fr": "Ain Touta"
+          },
+          {
+            "commune_code": "0512",
+            "commune_name_ar": "نقاوس",
+            "commune_name_fr": "N'Gaous"
+          },
+          {
+            "commune_code": "0513",
+            "commune_name_ar": "شميني",
+            "commune_name_fr": "Chemora"
+          },
+          {
+            "commune_code": "0514",
+            "commune_name_ar": "أولاد سلام",
+            "commune_name_fr": "Ouled Salem"
+          },
+          {
+            "commune_code": "0515",
+            "commune_name_ar": "بني فضالة الحقانية",
+            "commune_name_fr": "Beni Foudhala"
+          },
+          {
+            "commune_code": "0516",
+            "commune_name_ar": "بومية",
+            "commune_name_fr": "Boumia"
+          },
+          {
+            "commune_code": "0517",
+            "commune_name_ar": "بوزينة",
+            "commune_name_fr": "Bouzina"
+          },
+          {
+            "commune_code": "0518",
+            "commune_name_ar": "رأس العيون",
+            "commune_name_fr": "Ras El Aioun"
+          },
+          {
+            "commune_code": "0519",
+            "commune_name_ar": "الفايجة",
+            "commune_name_fr": "Foum Toub"
+          },
+          {
+            "commune_code": "0520",
+            "commune_name_ar": "تيمقاد",
+            "commune_name_fr": "Timgad"
+          },
+          {
+            "commune_code": "0521",
+            "commune_name_ar": "إشمول",
+            "commune_name_fr": "Ichmoul"
+          },
+          {
+            "commune_code": "0522",
+            "commune_name_ar": "سريانة",
+            "commune_name_fr": "Seriana"
+          },
+          {
+            "commune_code": "0523",
+            "commune_name_ar": "منعة",
+            "commune_name_fr": "Menaa"
+          },
+          {
+            "commune_code": "0524",
+            "commune_name_ar": "العزيل",
+            "commune_name_fr": "El Azel"
+          },
+          {
+            "commune_code": "0525",
+            "commune_name_ar": "إينوغيسن",
+            "commune_name_fr": "Inoughissen"
+          },
+          {
+            "commune_code": "0526",
+            "commune_name_ar": "أولاد فاضل",
+            "commune_name_fr": "Ouled Fadel"
+          },
+          {
+            "commune_code": "0527",
+            "commune_name_ar": "تيمغمر",
+            "commune_name_fr": "Timeghar"
+          },
+          {
+            "commune_code": "0528",
+            "commune_name_ar": "بولهيلات",
+            "commune_name_fr": "Boulhilat"
+          },
+          {
+            "commune_code": "0529",
+            "commune_name_ar": "لازرو",
+            "commune_name_fr": "Lazrou"
+          },
+          {
+            "commune_code": "0530",
+            "commune_name_ar": "بومقر",
+            "commune_name_fr": "Boumagueur"
+          },
+          {
+            "commune_code": "0531",
+            "commune_name_ar": "الجلمام",
+            "commune_name_fr": "Djerma"
+          },
+          {
+            "commune_code": "0532",
+            "commune_name_ar": "تالخمت",
+            "commune_name_fr": "Talkhamt"
+          },
+          {
+            "commune_code": "0533",
+            "commune_name_ar": "أريس",
+            "commune_name_fr": "Arris"
+          },
+          {
+            "commune_code": "0534",
+            "commune_name_ar": "كيمل",
+            "commune_name_fr": "Kimmel"
+          },
+          {
+            "commune_code": "0535",
+            "commune_name_ar": "تيلاطو",
+            "commune_name_fr": "Tilatou"
+          },
+          {
+            "commune_code": "0536",
+            "commune_name_ar": "أولاد عواط",
+            "commune_name_fr": "Ouled Aouf"
+          },
+          {
+            "commune_code": "0537",
+            "commune_name_ar": "تازولت",
+            "commune_name_fr": "Tazoult"
+          },
+          {
+            "commune_code": "0538",
+            "commune_name_ar": "لمسان",
+            "commune_name_fr": "Lemsane"
+          },
+          {
+            "commune_code": "0539",
+            "commune_name_ar": "تيغانمين",
+            "commune_name_fr": "Tighanimine"
+          },
+          {
+            "commune_code": "0540",
+            "commune_name_ar": "أولاد مع الله",
+            "commune_name_fr": "Ouled Maallah"
+          },
+          {
+            "commune_code": "0541",
+            "commune_name_ar": "وجانة",
+            "commune_name_fr": "Ouedjana"
+          },
+          {
+            "commune_code": "0542",
+            "commune_name_ar": "ثنية العابد",
+            "commune_name_fr": "Theniet El Abed"
+          },
+          {
+            "commune_code": "0543",
+            "commune_name_ar": "بني مليكش",
+            "commune_name_fr": "Beni Melikeche"
+          },
+          {
+            "commune_code": "0544",
+            "commune_name_ar": "سقانة",
+            "commune_name_fr": "Seggana"
+          },
+          {
+            "commune_code": "0545",
+            "commune_name_ar": "إيشمول",
+            "commune_name_fr": "Ichmoul"
+          },
+          {
+            "commune_code": "0546",
+            "commune_name_ar": "فم الطوب",
+            "commune_name_fr": "Foum Toub"
+          },
+          {
+            "commune_code": "0547",
+            "commune_name_ar": "بني فضالة",
+            "commune_name_fr": "Beni Foudhala"
+          },
+          {
+            "commune_code": "0548",
+            "commune_name_ar": "بني فضالة الخارجية",
+            "commune_name_fr": "Beni Foudhala El Kharijia"
+          }
+        ]
+      },{
+        "wilaya_code": "06",
+        "wilaya_name_ar": "بجاية",
+        "wilaya_name_fr": "Béjaïa",
+        "delivery_price": 550,
+        "communes": [
+          {
+            "commune_code": "0601",
+            "commune_name_ar": "بجاية",
+            "commune_name_fr": "Béjaïa"
+          },
+          {
+            "commune_code": "0602",
+            "commune_name_ar": "أميزور",
+            "commune_name_fr": "Amizour"
+          },
+          {
+            "commune_code": "0603",
+            "commune_name_ar": "آيت سماعيل",
+            "commune_name_fr": "Aït Smail"
+          },
+          {
+            "commune_code": "0604",
+            "commune_name_ar": "أقبو",
+            "commune_name_fr": "Akbou"
+          },
+          {
+            "commune_code": "0605",
+            "commune_name_ar": "أيت رزين",
+            "commune_name_fr": "Aït R'zine"
+          },
+          {
+            "commune_code": "0606",
+            "commune_name_ar": "أوقاس",
+            "commune_name_fr": "Aokas"
+          },
+          {
+            "commune_code": "0607",
+            "commune_name_ar": "برباشة",
+            "commune_name_fr": "Barbacha"
+          },
+          {
+            "commune_code": "0608",
+            "commune_name_ar": "بنى معوش",
+            "commune_name_fr": "Beni Maouche"
+          },
+          {
+            "commune_code": "0609",
+            "commune_name_ar": "شلاطة",
+            "commune_name_fr": "Chellata"
+          },
+          {
+            "commune_code": "0610",
+            "commune_name_ar": "درقينة",
+            "commune_name_fr": "Darguina"
+          },
+          {
+            "commune_code": "0611",
+            "commune_name_ar": "ذراع القايد",
+            "commune_name_fr": "Draâ El Kaïd"
+          },
+          {
+            "commune_code": "0612",
+            "commune_name_ar": "القصر",
+            "commune_name_fr": "El Kseur"
+          },
+          {
+            "commune_code": "0613",
+            "commune_name_ar": "فناية",
+            "commune_name_fr": "Fenaïa Ilmaten"
+          },
+          {
+            "commune_code": "0614",
+            "commune_name_ar": "فرعون",
+            "commune_name_fr": "Ferraoun"
+          },
+          {
+            "commune_code": "0615",
+            "commune_name_ar": "إيغيل علي",
+            "commune_name_fr": "Ighil Ali"
+          },
+          {
+            "commune_code": "0616",
+            "commune_name_ar": "إيغرم",
+            "commune_name_fr": "Ighram"
+          },
+          {
+            "commune_code": "0617",
+            "commune_name_ar": "قنديرة",
+            "commune_name_fr": "Kendira"
+          },
+          {
+            "commune_code": "0618",
+            "commune_name_ar": "خراطة",
+            "commune_name_fr": "Kherrata"
+          },
+          {
+            "commune_code": "0619",
+            "commune_name_ar": "معاتقة",
+            "commune_name_fr": "Maâtka"
+          },
+          {
+            "commune_code": "0620",
+            "commune_name_ar": "مشيرة",
+            "commune_name_fr": "M'cisna"
+          },
+          {
+            "commune_code": "0621",
+            "commune_name_ar": "وادي غير",
+            "commune_name_fr": "Oued Ghir"
+          },
+          {
+            "commune_code": "0622",
+            "commune_name_ar": "أوسن",
+            "commune_name_fr": "Ouzellaguen"
+          },
+          {
+            "commune_code": "0623",
+            "commune_name_ar": "صدوق",
+            "commune_name_fr": "Seddouk"
+          },
+          {
+            "commune_code": "0624",
+            "commune_name_ar": "سيدي عيش",
+            "commune_name_fr": "Sidi Aïch"
+          },
+          {
+            "commune_code": "0625",
+            "commune_name_ar": "سيدي عياد",
+            "commune_name_fr": "Sidi Ayad"
+          },
+          {
+            "commune_code": "0626",
+            "commune_name_ar": "سوق الإثنين",
+            "commune_name_fr": "Souk El Tenine"
+          },
+          {
+            "commune_code": "0627",
+            "commune_name_ar": "تازمالت",
+            "commune_name_fr": "Tazmalt"
+          },
+          {
+            "commune_code": "0628",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timezrit"
+          },
+          {
+            "commune_code": "0629",
+            "commune_name_ar": "توجة",
+            "commune_name_fr": "Toudja"
+          },
+          {
+            "commune_code": "0630",
+            "commune_name_ar": "تاوريرت آغيل",
+            "commune_name_fr": "Taourirt Ighil"
+          },
+          {
+            "commune_code": "0631",
+            "commune_name_ar": "تيفرة",
+            "commune_name_fr": "Tifra"
+          },
+          {
+            "commune_code": "0632",
+            "commune_name_ar": "تيمزغان",
+            "commune_name_fr": "Timeghân"
+          },
+          {
+            "commune_code": "0633",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timzrit"
+          },
+          {
+            "commune_code": "0634",
+            "commune_name_ar": "تيزي نبربر",
+            "commune_name_fr": "Tizi N'Berber"
+          },
+          {
+            "commune_code": "0635",
+            "commune_name_ar": "توجة",
+            "commune_name_fr": "Toudja"
+          },
+          {
+            "commune_code": "0636",
+            "commune_name_ar": "تاوريرت آغيل",
+            "commune_name_fr": "Taourirt Ighil"
+          },
+          {
+            "commune_code": "0637",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timzrit"
+          },
+          {
+            "commune_code": "0638",
+            "commune_name_ar": "تيمزغان",
+            "commune_name_fr": "Timeghân"
+          },
+          {
+            "commune_code": "0639",
+            "commune_name_ar": "تيزي نبربر",
+            "commune_name_fr": "Tizi N'Berber"
+          },
+          {
+            "commune_code": "0640",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timzrit"
+          },
+          {
+            "commune_code": "0641",
+            "commune_name_ar": "تيمزغان",
+            "commune_name_fr": "Timeghân"
+          },
+          {
+            "commune_code": "0642",
+            "commune_name_ar": "تيزي نبربر",
+            "commune_name_fr": "Tizi N'Berber"
+          },
+          {
+            "commune_code": "0643",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timzrit"
+          },
+          {
+            "commune_code": "0644",
+            "commune_name_ar": "تيمزغان",
+            "commune_name_fr": "Timeghân"
+          },
+          {
+            "commune_code": "0645",
+            "commune_name_ar": "تيزي نبربر",
+            "commune_name_fr": "Tizi N'Berber"
+          },
+          {
+            "commune_code": "0646",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timzrit"
+          },
+          {
+            "commune_code": "0647",
+            "commune_name_ar": "تيمزغان",
+            "commune_name_fr": "Timeghân"
+          },
+          {
+            "commune_code": "0648",
+            "commune_name_ar": "تيزي نبربر",
+            "commune_name_fr": "Tizi N'Berber"
+          },
+          {
+            "commune_code": "0649",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timzrit"
+          },
+          {
+            "commune_code": "0650",
+            "commune_name_ar": "تيمزغان",
+            "commune_name_fr": "Timeghân"
+          },
+          {
+            "commune_code": "0651",
+            "commune_name_ar": "تيزي نبربر",
+            "commune_name_fr": "Tizi N'Berber"
+          },
+          {
+            "commune_code": "0652",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timzrit"
+          }
+        ]
+      },
+      {
+        "wilaya_code": "07",
+        "wilaya_name_ar": "بسكرة",
+        "wilaya_name_fr": "Biskra",
+        "delivery_price": 800,
+        "communes": [
+          {
+            "commune_code": "0701",
+            "commune_name_ar": "بسكرة",
+            "commune_name_fr": "Biskra"
+          },
+          {
+            "commune_code": "0702",
+            "commune_name_ar": "أوماش",
+            "commune_name_fr": "Oumache"
+          },
+          {
+            "commune_code": "0703",
+            "commune_name_ar": "برانيس",
+            "commune_name_fr": "Branis"
+          },
+          {
+            "commune_code": "0704",
+            "commune_name_ar": "الشرفة",
+            "commune_name_fr": "Chetma"
+          },
+          {
+            "commune_code": "0705",
+            "commune_name_ar": "الدوسن",
+            "commune_name_fr": "Djemorah"
+          },
+          {
+            "commune_code": "0706",
+            "commune_name_ar": "الفطرية",
+            "commune_name_fr": "Foughala"
+          },
+          {
+            "commune_code": "0707",
+            "commune_name_ar": "خنقة سيدي ناجي",
+            "commune_name_fr": "Khenguet Sidi Nadji"
+          },
+          {
+            "commune_code": "0708",
+            "commune_name_ar": "المزيرعة",
+            "commune_name_fr": "Meziraa"
+          },
+          {
+            "commune_code": "0709",
+            "commune_name_ar": "أولاد جلال",
+            "commune_name_fr": "Ouled Djellal"
+          },
+          {
+            "commune_code": "0710",
+            "commune_name_ar": "الوطاية",
+            "commune_name_fr": "Ouled Zaouia"
+          },
+          {
+            "commune_code": "0711",
+            "commune_name_ar": "الغروس",
+            "commune_name_fr": "Ras El Miaad"
+          },
+          {
+            "commune_code": "0712",
+            "commune_name_ar": "سيدي خالد",
+            "commune_name_fr": "Sidi Khaled"
+          },
+          {
+            "commune_code": "0713",
+            "commune_name_ar": "سيدي عقبة",
+            "commune_name_fr": "Sidi Okba"
+          },
+          {
+            "commune_code": "0714",
+            "commune_name_ar": "تغزوت",
+            "commune_name_fr": "Tolga"
+          },
+          {
+            "commune_code": "0715",
+            "commune_name_ar": "زريبة الوادي",
+            "commune_name_fr": "Zeribet El Oued"
+          },
+          {
+            "commune_code": "0716",
+            "commune_name_ar": "ليشانة",
+            "commune_name_fr": "Lichana"
+          },
+          {
+            "commune_code": "0717",
+            "commune_name_ar": "أولاد رشاش",
+            "commune_name_fr": "Ouled Rached"
+          },
+          {
+            "commune_code": "0718",
+            "commune_name_ar": "المعذر",
+            "commune_name_fr": "M'Lili"
+          },
+          {
+            "commune_code": "0719",
+            "commune_name_ar": "أولاد عمران",
+            "commune_name_fr": "Ouled Amrane"
+          },
+          {
+            "commune_code": "0720",
+            "commune_name_ar": "بوشقرون",
+            "commune_name_fr": "Bouchagroune"
+          },
+          {
+            "commune_code": "0721",
+            "commune_name_ar": "مليلي",
+            "commune_name_fr": "M'lili"
+          },
+          {
+            "commune_code": "0722",
+            "commune_name_ar": "الفيض",
+            "commune_name_fr": "El Feidh"
+          },
+          {
+            "commune_code": "0723",
+            "commune_name_ar": "بوشقرون",
+            "commune_name_fr": "Bouchagroun"
+          },
+          {
+            "commune_code": "0724",
+            "commune_name_ar": "أولاد سليمان",
+            "commune_name_fr": "Ouled Slimane"
+          },
+          {
+            "commune_code": "0725",
+            "commune_name_ar": "الهامل",
+            "commune_name_fr": "El Hamel"
+          },
+          {
+            "commune_code": "0726",
+            "commune_name_ar": "بني مراد",
+            "commune_name_fr": "Beni Morh"
+          },
+          {
+            "commune_code": "0727",
+            "commune_name_ar": "بني عباس",
+            "commune_name_fr": "Beni Abbes"
+          },
+          {
+            "commune_code": "0728",
+            "commune_name_ar": "بني ونيف",
+            "commune_name_fr": "Beni Ounif"
+          },
+          {
+            "commune_code": "0729",
+            "commune_name_ar": "بني يخلف",
+            "commune_name_fr": "Beni Ikhlef"
+          },
+          {
+            "commune_code": "0730",
+            "commune_name_ar": "بني عزيز",
+            "commune_name_fr": "Beni Aziz"
+          },
+          {
+            "commune_code": "0731",
+            "commune_name_ar": "بني شيكو",
+            "commune_name_fr": "Beni Chikou"
+          },
+          {
+            "commune_code": "0732",
+            "commune_name_ar": "بني غبريط",
+            "commune_name_fr": "Beni Ghobri"
+          }
+        ]
+      },{
+        "wilaya_code": "08",
+        "wilaya_name_ar": "بشار",
+        "wilaya_name_fr": "Béchar",
+        "delivery_price": 1000,
+        "communes": [
+          {
+            "commune_code": "0801",
+            "commune_name_ar": "بشار",
+            "commune_name_fr": "Béchar"
+          },
+          {
+            "commune_code": "0802",
+            "commune_name_ar": "أربوات",
+            "commune_name_fr": "Erg Ferradj"
+          },
+          {
+            "commune_code": "0803",
+            "commune_name_ar": "بني ونيف",
+            "commune_name_fr": "Beni Ounif"
+          },
+          {
+            "commune_code": "0804",
+            "commune_name_ar": "كرزاز",
+            "commune_name_fr": "Kerzaz"
+          },
+          {
+            "commune_code": "0805",
+            "commune_name_ar": "تاغيت",
+            "commune_name_fr": "Taghit"
+          },
+          {
+            "commune_code": "0806",
+            "commune_name_ar": "لحمر",
+            "commune_name_fr": "Lahmar"
+          },
+          {
+            "commune_code": "0807",
+            "commune_name_ar": "بن يخلف",
+            "commune_name_fr": "Beni Ikhlef"
+          },
+          {
+            "commune_code": "0808",
+            "commune_name_ar": "موغل",
+            "commune_name_fr": "Mogheul"
+          },
+          {
+            "commune_code": "0809",
+            "commune_name_ar": "القنادسة",
+            "commune_name_fr": "Kenadsa"
+          },
+          {
+            "commune_code": "0810",
+            "commune_name_ar": "تيمودي",
+            "commune_name_fr": "Timoudi"
+          },
+          {
+            "commune_code": "0811",
+            "commune_name_ar": "تسابلة",
+            "commune_name_fr": "Tabelbala"
+          },
+          {
+            "commune_code": "0812",
+            "commune_name_ar": "تاغيت",
+            "commune_name_fr": "Taghit"
+          },
+          {
+            "commune_code": "0813",
+            "commune_name_ar": "أبو قرش",
+            "commune_name_fr": "Abadla"
+          },
+          {
+            "commune_code": "0814",
+            "commune_name_ar": "بوكايس",
+            "commune_name_fr": "Boukais"
+          },
+          {
+            "commune_code": "0815",
+            "commune_name_ar": "مشرع هواري بومدين",
+            "commune_name_fr": "Mechraa Houari Boumediene"
+          },
+          {
+            "commune_code": "0816",
+            "commune_name_ar": "الواتة",
+            "commune_name_fr": "El Ouata"
+          },
+          {
+            "commune_code": "0817",
+            "commune_name_ar": "بني عباس",
+            "commune_name_fr": "Beni Abbes"
+          },
+          {
+            "commune_code": "0818",
+            "commune_name_ar": "تيميمون",
+            "commune_name_fr": "Timimoun"
+          },
+          {
+            "commune_code": "0819",
+            "commune_name_ar": "المنيعة",
+            "commune_name_fr": "El Meniaa"
+          },
+          {
+            "commune_code": "0820",
+            "commune_name_ar": "تندوف",
+            "commune_name_fr": "Tindouf"
+          },
+          {
+            "commune_code": "0821",
+            "commune_name_ar": "تسابلة",
+            "commune_name_fr": "Tabelbala"
+          }
+        ]
+      },{
+        "wilaya_code": "09",
+        "wilaya_name_ar": "البليدة",
+        "wilaya_name_fr": "Blida",
+        "delivery_price": 250,
+        "communes": [
+          {
+            "commune_code": "0901",
+            "commune_name_ar": "البليدة",
+            "commune_name_fr": "Blida"
+          },
+          {
+            "commune_code": "0902",
+            "commune_name_ar": "الشريعة",
+            "commune_name_fr": "Chebli"
+          },
+          {
+            "commune_code": "0903",
+            "commune_name_ar": "بوقرة",
+            "commune_name_fr": "Bouarfa"
+          },
+          {
+            "commune_code": "0904",
+            "commune_name_ar": "بني مراد",
+            "commune_name_fr": "Beni Merad"
+          },
+          {
+            "commune_code": "0905",
+            "commune_name_ar": "بوعينان",
+            "commune_name_fr": "Bouinan"
+          },
+          {
+            "commune_code": "0906",
+            "commune_name_ar": "الأربعاء",
+            "commune_name_fr": "Larbaa"
+          },
+          {
+            "commune_code": "0907",
+            "commune_name_ar": "وادي العلايق",
+            "commune_name_fr": "Oued El Alleug"
+          },
+          {
+            "commune_code": "0908",
+            "commune_name_ar": "بوفاريك",
+            "commune_name_fr": "Boufarik"
+          },
+          {
+            "commune_code": "0909",
+            "commune_name_ar": "بني خليل",
+            "commune_name_fr": "Beni Khelil"
+          },
+          {
+            "commune_code": "0910",
+            "commune_name_ar": "جبابرة",
+            "commune_name_fr": "Djebabra"
+          },
+          {
+            "commune_code": "0911",
+            "commune_name_ar": "العفرون",
+            "commune_name_fr": "El Affroun"
+          },
+          {
+            "commune_code": "0912",
+            "commune_name_ar": "الشبلي",
+            "commune_name_fr": "Chiffa"
+          },
+          {
+            "commune_code": "0913",
+            "commune_name_ar": "مفتاح",
+            "commune_name_fr": "Meftah"
+          },
+          {
+            "commune_code": "0914",
+            "commune_name_ar": "حمام ملوان",
+            "commune_name_fr": "Hammam Melouane"
+          },
+          {
+            "commune_code": "0915",
+            "commune_name_ar": "سيدي موسى",
+            "commune_name_fr": "Sidi Moussa"
+          },
+          {
+            "commune_code": "0916",
+            "commune_name_ar": "سوق الجمعة",
+            "commune_name_fr": "Soumaa"
+          },
+          {
+            "commune_code": "0917",
+            "commune_name_ar": "العمارة",
+            "commune_name_fr": "El Amra"
+          },
+          {
+            "commune_code": "0918",
+            "commune_name_ar": "أولاد يعيش",
+            "commune_name_fr": "Ouled Yaich"
+          },
+          {
+            "commune_code": "0919",
+            "commune_name_ar": "بن عروس",
+            "commune_name_fr": "Beni Amrane"
+          },
+          {
+            "commune_code": "0920",
+            "commune_name_ar": "وادي جر",
+            "commune_name_fr": "Oued Djer"
+          },
+          {
+            "commune_code": "0921",
+            "commune_name_ar": "بني تامو",
+            "commune_name_fr": "Beni Tamou"
+          },
+          {
+            "commune_code": "0922",
+            "commune_name_ar": "بوقرة",
+            "commune_name_fr": "Bougara"
+          },
+          {
+            "commune_code": "0923",
+            "commune_name_ar": "الجبابرة",
+            "commune_name_fr": "Guerrouaou"
+          },
+          {
+            "commune_code": "0924",
+            "commune_name_ar": "العيساوية",
+            "commune_name_fr": "Ain Romana"
+          },
+          {
+            "commune_code": "0925",
+            "commune_name_ar": "سيدي الربيع",
+            "commune_name_fr": "Sidi Rabia"
+          }
+        ]
+      },{
+        "wilaya_code": "10",
+        "wilaya_name_ar": "البويرة",
+        "wilaya_name_fr": "Bouira",
+        "delivery_price": 600,
+        "communes": [
+          {
+            "commune_code": "1001",
+            "commune_name_ar": "البويرة",
+            "commune_name_fr": "Bouira"
+          },
+          {
+            "commune_code": "1002",
+            "commune_name_ar": "الأخضرية",
+            "commune_name_fr": "El Asnam"
+          },
+          {
+            "commune_code": "1003",
+            "commune_name_ar": "عين الترك",
+            "commune_name_fr": "Aïn Turk"
+          },
+          {
+            "commune_code": "1004",
+            "commune_name_ar": "أيت لعزيز",
+            "commune_name_fr": "Aït Laaziz"
+          },
+          {
+            "commune_code": "1005",
+            "commune_name_ar": "أغبالو",
+            "commune_name_fr": "Aghbalou"
+          },
+          {
+            "commune_code": "1006",
+            "commune_name_ar": "أهل القصر",
+            "commune_name_fr": "Ahl El Ksar"
+          },
+          {
+            "commune_code": "1007",
+            "commune_name_ar": "عين الحجر",
+            "commune_name_fr": "Aïn El Hadjar"
+          },
+          {
+            "commune_code": "1008",
+            "commune_name_ar": "أيت شافع",
+            "commune_name_fr": "Aït Chafaa"
+          },
+          {
+            "commune_code": "1009",
+            "commune_name_ar": "بشلول",
+            "commune_name_fr": "Bechloul"
+          },
+          {
+            "commune_code": "1010",
+            "commune_name_ar": "برج أوخريص",
+            "commune_name_fr": "Bordj Okhriss"
+          },
+          {
+            "commune_code": "1011",
+            "commune_name_ar": "بئر غبالو",
+            "commune_name_fr": "Bir Ghbalou"
+          },
+          {
+            "commune_code": "1012",
+            "commune_name_ar": "بودربالة",
+            "commune_name_fr": "Bouderbala"
+          },
+          {
+            "commune_code": "1013",
+            "commune_name_ar": "بودواو",
+            "commune_name_fr": "Boudouaou"
+          },
+          {
+            "commune_code": "1014",
+            "commune_name_ar": "بوعرقوب",
+            "commune_name_fr": "Bouaïkou"
+          },
+          {
+            "commune_code": "1015",
+            "commune_name_ar": "بورقيقة",
+            "commune_name_fr": "Bouraï"
+          },
+          {
+            "commune_code": "1016",
+            "commune_name_ar": "الشرفة",
+            "commune_name_fr": "Chorfa"
+          },
+          {
+            "commune_code": "1017",
+            "commune_name_ar": "ديرة",
+            "commune_name_fr": "Dechmia"
+          },
+          {
+            "commune_code": "1018",
+            "commune_name_ar": "ديرة",
+            "commune_name_fr": "Dirrah"
+          },
+          {
+            "commune_code": "1019",
+            "commune_name_ar": "جباحية",
+            "commune_name_fr": "Djebahia"
+          },
+          {
+            "commune_code": "1020",
+            "commune_name_ar": "الخضارة",
+            "commune_name_fr": "El Khedara"
+          },
+          {
+            "commune_code": "1021",
+            "commune_name_ar": "المعاضيد",
+            "commune_name_fr": "El Maadid"
+          },
+          {
+            "commune_code": "1022",
+            "commune_name_ar": "المعمورة",
+            "commune_name_fr": "El Mamoura"
+          },
+          {
+            "commune_code": "1023",
+            "commune_name_ar": "الهامل",
+            "commune_name_fr": "El Hachimia"
+          },
+          {
+            "commune_code": "1024",
+            "commune_name_ar": "الحاكمية",
+            "commune_name_fr": "El Hakimia"
+          },
+          {
+            "commune_code": "1025",
+            "commune_name_ar": "قادرية",
+            "commune_name_fr": "Kadiria"
+          },
+          {
+            "commune_code": "1026",
+            "commune_name_ar": "لخضرية",
+            "commune_name_fr": "Lakhdaria"
+          },
+          {
+            "commune_code": "1027",
+            "commune_name_ar": "مشد الله",
+            "commune_name_fr": "Mchedallah"
+          },
+          {
+            "commune_code": "1028",
+            "commune_name_ar": "معالة",
+            "commune_name_fr": "Maala"
+          },
+          {
+            "commune_code": "1029",
+            "commune_name_ar": "وادي البردي",
+            "commune_name_fr": "Oued El Berdi"
+          },
+          {
+            "commune_code": "1030",
+            "commune_name_ar": "رأس الوادي",
+            "commune_name_fr": "Ras El Oued"
+          },
+          {
+            "commune_code": "1031",
+            "commune_name_ar": "سور الغزلان",
+            "commune_name_fr": "Sour El Ghozlane"
+          },
+          {
+            "commune_code": "1032",
+            "commune_name_ar": "سوق الخميس",
+            "commune_name_fr": "Souk El Khemis"
+          },
+          {
+            "commune_code": "1033",
+            "commune_name_ar": "تاقديت",
+            "commune_name_fr": "Taguedit"
+          },
+          {
+            "commune_code": "1034",
+            "commune_name_ar": "الزبربر",
+            "commune_name_fr": "Zbarbar"
+          },
+          {
+            "commune_code": "1035",
+            "commune_name_ar": "تيمزريت",
+            "commune_name_fr": "Timgrat"
+          },
+          {
+            "commune_code": "1036",
+            "commune_name_ar": "آث منصور",
+            "commune_name_fr": "Ath Mansour"
+          },
+          {
+            "commune_code": "1037",
+            "commune_name_ar": "أولاد راشد",
+            "commune_name_fr": "Ouled Rached"
+          },
+          {
+            "commune_code": "1038",
+            "commune_name_ar": "حيزر",
+            "commune_name_fr": "Haizer"
+          },
+          {
+            "commune_code": "1039",
+            "commune_name_ar": "إينوغيسن",
+            "commune_name_fr": "Ighram"
+          },
+          {
+            "commune_code": "1040",
+            "commune_name_ar": "معالة",
+            "commune_name_fr": "Maamora"
+          },
+          {
+            "commune_code": "1041",
+            "commune_name_ar": "سيدي عيسى",
+            "commune_name_fr": "Sidi Aissa"
+          },
+          {
+            "commune_code": "1042",
+            "commune_name_ar": "تاقرابت",
+            "commune_name_fr": "Tagharabt"
+          },
+          {
+            "commune_code": "1043",
+            "commune_name_ar": "يسر",
+            "commune_name_fr": "Yasser"
+          },
+          {
+            "commune_code": "1044",
+            "commune_name_ar": "أولاد سلامة",
+            "commune_name_fr": "Ouled Slama"
+          },
+          {
+            "commune_code": "1045",
+            "commune_name_ar": "أولاد يعيش",
+            "commune_name_fr": "Ouled Yaich"
+          }
+        ]
+      },
+   
+     {
+        "wilaya_code": "11",
+        "wilaya_name_ar": "تمنراست",
+        "wilaya_name_fr": "Tamanrasset",
+        "delivery_price": 1200,
+        "communes": [
+          {
+            "commune_code": "1101",
+            "commune_name_ar": "تمنراست",
+            "commune_name_fr": "Tamanrasset"
+          },
+          {
+            "commune_code": "1102",
+            "commune_name_ar": "أبلسة",
+            "commune_name_fr": "Abalessa"
+          },
+          {
+            "commune_code": "1103",
+            "commune_name_ar": "إن غار",
+            "commune_name_fr": "In Ghar"
+          },
+          {
+            "commune_code": "1104",
+            "commune_name_ar": "إن غزلان",
+            "commune_name_fr": "In Guezzam"
+          },
+          {
+            "commune_code": "1105",
+            "commune_name_ar": "إن صالح",
+            "commune_name_fr": "In Salah"
+          },
+          {
+            "commune_code": "1106",
+            "commune_name_ar": "تاظروك",
+            "commune_name_fr": "Tazrouk"
+          },
+          {
+            "commune_code": "1107",
+            "commune_name_ar": "تاهيفت",
+            "commune_name_fr": "Tahifet"
+          },
+          {
+            "commune_code": "1108",
+            "commune_name_ar": "تامنست",
+            "commune_name_fr": "Tamanrasset"
+          },
+          {
+            "commune_code": "1109",
+            "commune_name_ar": "تيمياوين",
+            "commune_name_fr": "Timiaouine"
+          },
+          {
+            "commune_code": "1110",
+            "commune_name_ar": "عين صالح",
+            "commune_name_fr": "Ain Salah"
+          },
+          {
+            "commune_code": "1111",
+            "commune_name_ar": "عين قزام",
+            "commune_name_fr": "Ain Guezzam"
+          },
+          {
+            "commune_code": "1112",
+            "commune_name_ar": "إدلس",
+            "commune_name_fr": "Idles"
+          },
+          {
+            "commune_code": "1113",
+            "commune_name_ar": "سيلت",
+            "commune_name_fr": "Silet"
+          },
+          {
+            "commune_code": "1114",
+            "commune_name_ar": "تقرت",
+            "commune_name_fr": "Tikoubaouine"
+          },
+          {
+            "commune_code": "1115",
+            "commune_name_ar": "تاهلة",
+            "commune_name_fr": "Tahala"
+          },
+          {
+            "commune_code": "1116",
+            "commune_name_ar": "تيميمون",
+            "commune_name_fr": "Timimoun"
+          },
+          {
+            "commune_code": "1117",
+            "commune_name_ar": "تندوف",
+            "commune_name_fr": "Tindouf"
+          },
+          {
+            "commune_code": "1118",
+            "commune_name_ar": "تيمياوين",
+            "commune_name_fr": "Timiaouine"
+          },
+          {
+            "commune_code": "1119",
+            "commune_name_ar": "تاظروك",
+            "commune_name_fr": "Tazrouk"
+          },
+          {
+            "commune_code": "1120",
+            "commune_name_ar": "تاهيفت",
+            "commune_name_fr": "Tahifet"
+          }
+        ]
+      },{
+  "wilaya_code": "12",
+  "wilaya_name_ar": "تبسة",
+  "wilaya_name_fr": "Tébessa",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "1201",
+      "commune_name_ar": "تبسة",
+      "commune_name_fr": "Tébessa"
+    },
+    {
+      "commune_code": "1202",
+      "commune_name_ar": "الونزة",
+      "commune_name_fr": "El Ouenza"
+    },
+    {
+      "commune_code": "1203",
+      "commune_name_ar": "الشريعة",
+      "commune_name_fr": "Cheria"
+    },
+    {
+      "commune_code": "1204",
+      "commune_name_ar": "العوينات",
+      "commune_name_fr": "El Aouinet"
+    },
+    {
+      "commune_code": "1205",
+      "commune_name_ar": "بئر العاتر",
+      "commune_name_fr": "Bir El Ater"
+    },
+    {
+      "commune_code": "1206",
+      "commune_name_ar": "بكارية",
+      "commune_name_fr": "Bekkaria"
+    },
+    {
+      "commune_code": "1207",
+      "commune_name_ar": "بئر مقدم",
+      "commune_name_fr": "Bir Mokadem"
+    },
+    {
+      "commune_code": "1208",
+      "commune_name_ar": "بوخضرة",
+      "commune_name_fr": "Boukhadra"
+    },
+    {
+      "commune_code": "1209",
+      "commune_name_ar": "بجن",
+      "commune_name_fr": "Baghai"
+    },
+    {
+      "commune_code": "1210",
+      "commune_name_ar": "نقرين",
+      "commune_name_fr": "Negrine"
+    },
+    {
+      "commune_code": "1211",
+      "commune_name_ar": "صفصاف الوسرى",
+      "commune_name_fr": "Safsaf El Ouesra"
+    },
+    {
+      "commune_code": "1212",
+      "commune_name_ar": "الماء الأبيض",
+      "commune_name_fr": "El Malabiod"
+    },
+    {
+      "commune_code": "1213",
+      "commune_name_ar": "الكويف",
+      "commune_name_fr": "El Kouif"
+    },
+    {
+      "commune_code": "1214",
+      "commune_name_ar": "المريج",
+      "commune_name_fr": "Morsott"
+    },
+    {
+      "commune_code": "1215",
+      "commune_name_ar": "بئر الذهب",
+      "commune_name_fr": "Bir Dheb"
+    },
+    {
+      "commune_code": "1216",
+      "commune_name_ar": "عين الزرقاء",
+      "commune_name_fr": "Ain Zerga"
+    },
+    {
+      "commune_code": "1217",
+      "commune_name_ar": "الحويجبات",
+      "commune_name_fr": "El Houidjbet"
+    },
+    {
+      "commune_code": "1218",
+      "commune_name_ar": "ثليجان",
+      "commune_name_fr": "Tlidjene"
+    },
+    {
+      "commune_code": "1219",
+      "commune_name_ar": "بئر مقدم",
+      "commune_name_fr": "Bir Mokadem"
+    }
+  ]
+},
+{
+  "wilaya_code": "13",
+  "wilaya_name_ar": "تلمسان",
+  "wilaya_name_fr": "Tlemcen",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "1301",
+      "commune_name_ar": "تلمسان",
+      "commune_name_fr": "Tlemcen"
+    },
+    {
+      "commune_code": "1302",
+      "commune_name_ar": "منصورة",
+      "commune_name_fr": "Mansourah"
+    },
+    {
+      "commune_code": "1303",
+      "commune_name_ar": "الرمشي",
+      "commune_name_fr": "Remchi"
+    },
+    {
+      "commune_code": "1304",
+      "commune_name_ar": "الغزوات",
+      "commune_name_fr": "Ghazaouet"
+    },
+    {
+      "commune_code": "1305",
+      "commune_name_ar": "مغنية",
+      "commune_name_fr": "Maghnia"
+    },
+    {
+      "commune_code": "1306",
+      "commune_name_ar": "صبغة",
+      "commune_name_fr": "Sebdou"
+    },
+    {
+      "commune_code": "1307",
+      "commune_name_ar": "بني سنوس",
+      "commune_name_fr": "Beni Snous"
+    },
+    {
+      "commune_code": "1308",
+      "commune_name_ar": "ندرومة",
+      "commune_name_fr": "Nedroma"
+    },
+    {
+      "commune_code": "1309",
+      "commune_name_ar": "حنين",
+      "commune_name_fr": "Honaine"
+    },
+    {
+      "commune_code": "1310",
+      "commune_name_ar": "سوق الثلاثاء",
+      "commune_name_fr": "Souk Thlata"
+    },
+    {
+      "commune_code": "1311",
+      "commune_name_ar": "باب العسة",
+      "commune_name_fr": "Bab El Assa"
+    },
+    {
+      "commune_code": "1312",
+      "commune_name_ar": "عين تالوت",
+      "commune_name_fr": "Ain Talout"
+    },
+    {
+      "commune_code": "1313",
+      "commune_name_ar": "بني بوسعيد",
+      "commune_name_fr": "Beni Boussaid"
+    },
+    {
+      "commune_code": "1314",
+      "commune_name_ar": "عين فزة",
+      "commune_name_fr": "Ain Fezza"
+    },
+    {
+      "commune_code": "1315",
+      "commune_name_ar": "أولاد ميمون",
+      "commune_name_fr": "Ouled Mimoun"
+    },
+    {
+      "commune_code": "1316",
+      "commune_name_ar": "زناتة",
+      "commune_name_fr": "Zenata"
+    },
+    {
+      "commune_code": "1317",
+      "commune_name_ar": "مرسى بن مهيدي",
+      "commune_name_fr": "Marsa Ben M'hidi"
+    },
+    {
+      "commune_code": "1318",
+      "commune_name_ar": "بني بهدل",
+      "commune_name_fr": "Beni Bahdel"
+    },
+    {
+      "commune_code": "1319",
+      "commune_name_ar": "عين يوسف",
+      "commune_name_fr": "Ain Youcef"
+    }
+  ]
+},
+{
+  "wilaya_code": "14",
+  "wilaya_name_ar": "تيارت",
+  "wilaya_name_fr": "Tiaret",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "1401",
+      "commune_name_ar": "تيارت",
+      "commune_name_fr": "Tiaret"
+    },
+    {
+      "commune_code": "1402",
+      "commune_name_ar": "مدروسة",
+      "commune_name_fr": "Medroussa"
+    },
+    {
+      "commune_code": "1403",
+      "commune_name_ar": "عين الذهب",
+      "commune_name_fr": "Ain Deheb"
+    },
+    {
+      "commune_code": "1404",
+      "commune_name_ar": "السوقر",
+      "commune_name_fr": "Sougueur"
+    },
+    {
+      "commune_code": "1405",
+      "commune_name_ar": "فرندة",
+      "commune_name_fr": "Frenda"
+    },
+    {
+      "commune_code": "1406",
+      "commune_name_ar": "قصر الشلالة",
+      "commune_name_fr": "Ksar Chellala"
+    },
+    {
+      "commune_code": "1407",
+      "commune_name_ar": "مهدية",
+      "commune_name_fr": "Mahdia"
+    },
+    {
+      "commune_code": "1408",
+      "commune_name_ar": "رحوية",
+      "commune_name_fr": "Rahouia"
+    },
+    {
+      "commune_code": "1409",
+      "commune_name_ar": "عين كرمس",
+      "commune_name_fr": "Ain Kermes"
+    },
+    {
+      "commune_code": "1410",
+      "commune_name_ar": "مغيلة",
+      "commune_name_fr": "Meghila"
+    },
+    {
+      "commune_code": "1411",
+      "commune_name_ar": "الحمادية",
+      "commune_name_fr": "Hamadia"
+    },
+    {
+      "commune_code": "1412",
+      "commune_name_ar": "دحموني",
+      "commune_name_fr": "Dahmouni"
+    },
+    {
+      "commune_code": "1413",
+      "commune_name_ar": "عين الحديد",
+      "commune_name_fr": "Ain El Hadid"
+    },
+    {
+      "commune_code": "1414",
+      "commune_name_ar": "عين زاريت",
+      "commune_name_fr": "Ain Zarit"
+    },
+    {
+      "commune_code": "1415",
+      "commune_name_ar": "سبت",
+      "commune_name_fr": "Sebt"
+    },
+    {
+      "commune_code": "1416",
+      "commune_name_ar": "تاقدمت",
+      "commune_name_fr": "Takhemaret"
+    },
+    {
+      "commune_code": "1417",
+      "commune_name_ar": "مادنة",
+      "commune_name_fr": "Madna"
+    },
+    {
+      "commune_code": "1418",
+      "commune_name_ar": "سرغين",
+      "commune_name_fr": "Serghine"
+    },
+    {
+      "commune_code": "1419",
+      "commune_name_ar": "نقمارية",
+      "commune_name_fr": "N'gaous"
+    }
+  ]
+}
+
+
+,{
+  "wilaya_code": "15",
+  "wilaya_name_ar": "تيزي وزو",
+  "wilaya_name_fr": "Tizi Ouzou",
+  "delivery_price": 550,
+  "communes": [
+    {
+      "commune_code": "1501",
+      "commune_name_ar": "تيزي وزو",
+      "commune_name_fr": "Tizi Ouzou"
+    },
+    {
+      "commune_code": "1502",
+      "commune_name_ar": "أزفون",
+      "commune_name_fr": "Azeffoun"
+    },
+    {
+      "commune_code": "1503",
+      "commune_name_ar": "أيت يحيى",
+      "commune_name_fr": "Ait Yahia"
+    },
+    {
+      "commune_code": "1504",
+      "commune_name_ar": "أقرو",
+      "commune_name_fr": "Akbou"
+    },
+    {
+      "commune_code": "1505",
+      "commune_name_ar": "بوغني",
+      "commune_name_fr": "Boghni"
+    },
+    {
+      "commune_code": "1506",
+      "commune_name_ar": "بني دوالة",
+      "commune_name_fr": "Beni Douala"
+    },
+    {
+      "commune_code": "1507",
+      "commune_name_ar": "معاتقة",
+      "commune_name_fr": "Maatkas"
+    },
+    {
+      "commune_code": "1508",
+      "commune_name_ar": "ذراع بن خدة",
+      "commune_name_fr": "Draa Ben Khedda"
+    },
+    {
+      "commune_code": "1509",
+      "commune_name_ar": "تيزي راشد",
+      "commune_name_fr": "Tizi Rached"
+    },
+    {
+      "commune_code": "1510",
+      "commune_name_ar": "عزازقة",
+      "commune_name_fr": "Azazga"
+    },
+    {
+      "commune_code": "1511",
+      "commune_name_ar": "واقنون",
+      "commune_name_fr": "Ouaguenoun"
+    },
+    {
+      "commune_code": "1512",
+      "commune_name_ar": "مشطراس",
+      "commune_name_fr": "Mechtras"
+    },
+    {
+      "commune_code": "1513",
+      "commune_name_ar": "إغزر أمقران",
+      "commune_name_fr": "Ighzer Amokrane"
+    },
+    {
+      "commune_code": "1514",
+      "commune_name_ar": "عين الحمام",
+      "commune_name_fr": "Ain El Hammam"
+    },
+    {
+      "commune_code": "1515",
+      "commune_name_ar": "تيقزيرت",
+      "commune_name_fr": "Tigzirt"
+    },
+    {
+      "commune_code": "1516",
+      "commune_name_ar": "فريحة",
+      "commune_name_fr": "Freha"
+    },
+    {
+      "commune_code": "1517",
+      "commune_name_ar": "إبودرارن",
+      "commune_name_fr": "Iboudraren"
+    },
+    {
+      "commune_code": "1518",
+      "commune_name_ar": "تسافت",
+      "commune_name_fr": "Tizi N'Tleta"
+    },
+    {
+      "commune_code": "1519",
+      "commune_name_ar": "إيفيغاء",
+      "commune_name_fr": "Iffigha"
+    }
+  ]
+},
+{
+  "wilaya_code": "16",
+  "wilaya_name_ar": "الجزائر",
+  "wilaya_name_fr": "Alger",
+  "delivery_price": 250,
+  "communes": [
+    {
+      "commune_code": "1601",
+      "commune_name_ar": "الجزائر الوسطى",
+      "commune_name_fr": "Alger-Centre"
+    },
+    {
+      "commune_code": "1602",
+      "commune_name_ar": "القصبة",
+      "commune_name_fr": "Casbah"
+    },
+    {
+      "commune_code": "1603",
+      "commune_name_ar": "باب الواد",
+      "commune_name_fr": "Bab El Oued"
+    },
+    {
+      "commune_code": "1604",
+      "commune_name_ar": "بئر مراد رايس",
+      "commune_name_fr": "Bir Mourad Raïs"
+    },
+    {
+      "commune_code": "1605",
+      "commune_name_ar": "حسين داي",
+      "commune_name_fr": "Hussein Dey"
+    },
+    {
+      "commune_code": "1606",
+      "commune_name_ar": "بلوزداد",
+      "commune_name_fr": "Belouizdad"
+    },
+    {
+      "commune_code": "1607",
+      "commune_name_ar": "المدنية",
+      "commune_name_fr": "El Madania"
+    },
+    {
+      "commune_code": "1608",
+      "commune_name_ar": "سيدي محمد",
+      "commune_name_fr": "Sidi M'Hamed"
+    },
+    {
+      "commune_code": "1609",
+      "commune_name_ar": "باب الزوار",
+      "commune_name_fr": "Bab Ezzouar"
+    },
+    {
+      "commune_code": "1610",
+      "commune_name_ar": "بئر خادم",
+      "commune_name_fr": "Bir Khadem"
+    },
+    {
+      "commune_code": "1611",
+      "commune_name_ar": "القبة",
+      "commune_name_fr": "El Harrach"
+    },
+    {
+      "commune_code": "1612",
+      "commune_name_ar": "الدار البيضاء",
+      "commune_name_fr": "Dar El Beida"
+    },
+    {
+      "commune_code": "1613",
+      "commune_name_ar": "باش جراح",
+      "commune_name_fr": "Bach Djarrah"
+    },
+    {
+      "commune_code": "1614",
+      "commune_name_ar": "بوزريعة",
+      "commune_name_fr": "Bouzareah"
+    },
+    {
+      "commune_code": "1615",
+      "commune_name_ar": "دالي ابراهيم",
+      "commune_name_fr": "Dely Ibrahim"
+    },
+    {
+      "commune_code": "1616",
+      "commune_name_ar": "الأبيار",
+      "commune_name_fr": "El Biar"
+    },
+    {
+      "commune_code": "1617",
+      "commune_name_ar": "الشراقة",
+      "commune_name_fr": "Cheraga"
+    },
+    {
+      "commune_code": "1618",
+      "commune_name_ar": "سطاوالي",
+      "commune_name_fr": "Staoueli"
+    },
+    {
+      "commune_code": "1619",
+      "commune_name_ar": "زرالدة",
+      "commune_name_fr": "Zeralda"
+    },
+    {
+      "commune_code": "1620",
+      "commune_name_ar": "الرحمانية",
+      "commune_name_fr": "Rahmania"
+    }
+  ]
+}
+
+,
+{
+  "wilaya_code": "17",
+  "wilaya_name_ar": "الجلفة",
+  "wilaya_name_fr": "Djelfa",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "1701",
+      "commune_name_ar": "الجلفة",
+      "commune_name_fr": "Djelfa"
+    },
+    {
+      "commune_code": "1702",
+      "commune_name_ar": "عين وسارة",
+      "commune_name_fr": "Ain Oussera"
+    },
+    {
+      "commune_code": "1703",
+      "commune_name_ar": "حاسي بحبح",
+      "commune_name_fr": "Hassi Bahbah"
+    },
+    {
+      "commune_code": "1704",
+      "commune_name_ar": "المسيلة",
+      "commune_name_fr": "Messaad"
+    },
+    {
+      "commune_code": "1705",
+      "commune_name_ar": "دار الشيوخ",
+      "commune_name_fr": "Dar Chioukh"
+    },
+    {
+      "commune_code": "1706",
+      "commune_name_ar": "فيض البطمة",
+      "commune_name_fr": "Faidh El Botma"
+    },
+    {
+      "commune_code": "1707",
+      "commune_name_ar": "سيدي لعجال",
+      "commune_name_fr": "Sidi Ladjel"
+    },
+    {
+      "commune_code": "1708",
+      "commune_name_ar": "البيرين",
+      "commune_name_fr": "Birine"
+    },
+    {
+      "commune_code": "1709",
+      "commune_name_ar": "حد الصحاري",
+      "commune_name_fr": "Had Sahary"
+    },
+    {
+      "commune_code": "1710",
+      "commune_name_ar": "عين الإبل",
+      "commune_name_fr": "Ain Ibel"
+    },
+    {
+      "commune_code": "1711",
+      "commune_name_ar": "الشارف",
+      "commune_name_fr": "Charef"
+    },
+    {
+      "commune_code": "1712",
+      "commune_name_ar": "القديد",
+      "commune_name_fr": "El Guedid"
+    },
+    {
+      "commune_code": "1713",
+      "commune_name_ar": "تعظميت",
+      "commune_name_fr": "Taadmit"
+    },
+    {
+      "commune_code": "1714",
+      "commune_name_ar": "حاسي العش",
+      "commune_name_fr": "Hassi El Euch"
+    },
+    {
+      "commune_code": "1715",
+      "commune_name_ar": "زعفران",
+      "commune_name_fr": "Zaafrane"
+    },
+    {
+      "commune_code": "1716",
+      "commune_name_ar": "عين معبد",
+      "commune_name_fr": "Ain Maabed"
+    },
+    {
+      "commune_code": "1717",
+      "commune_name_ar": "بنهار",
+      "commune_name_fr": "Benhar"
+    },
+    {
+      "commune_code": "1718",
+      "commune_name_ar": "عين الشهداء",
+      "commune_name_fr": "Ain Chouhada"
+    },
+    {
+      "commune_code": "1719",
+      "commune_name_ar": "المجبارة",
+      "commune_name_fr": "Moudjebara"
+    },
+    {
+      "commune_code": "1720",
+      "commune_name_ar": "سيدي بايزيد",
+      "commune_name_fr": "Sidi Baizid"
+    }
+  ]
+},
+{
+  "wilaya_code": "18",
+  "wilaya_name_ar": "جيجل",
+  "wilaya_name_fr": "Jijel",
+  "delivery_price": 600,
+  "communes": [
+    {
+      "commune_code": "1801",
+      "commune_name_ar": "جيجل",
+      "commune_name_fr": "Jijel"
+    },
+    {
+      "commune_code": "1802",
+      "commune_name_ar": "الطاهير",
+      "commune_name_fr": "Taher"
+    },
+    {
+      "commune_code": "1803",
+      "commune_name_ar": "العوانة",
+      "commune_name_fr": "El Aouana"
+    },
+    {
+      "commune_code": "1804",
+      "commune_name_ar": "الميلية",
+      "commune_name_fr": "El Milia"
+    },
+    {
+      "commune_code": "1805",
+      "commune_name_ar": "الشقفة",
+      "commune_name_fr": "Chekfa"
+    },
+    {
+      "commune_code": "1806",
+      "commune_name_ar": "جيملة",
+      "commune_name_fr": "Djmila"
+    },
+    {
+      "commune_code": "1807",
+      "commune_name_ar": "أولاد عسكر",
+      "commune_name_fr": "Ouled Asker"
+    },
+    {
+      "commune_code": "1808",
+      "commune_name_ar": "الإراقن",
+      "commune_name_fr": "Erraguene"
+    },
+    {
+      "commune_code": "1809",
+      "commune_name_ar": "أولاد رابح",
+      "commune_name_fr": "Ouled Rabah"
+    },
+    {
+      "commune_code": "1810",
+      "commune_name_ar": "سيدي عبد العزيز",
+      "commune_name_fr": "Sidi Abdelaziz"
+    },
+    {
+      "commune_code": "1811",
+      "commune_name_ar": "زيامة منصورية",
+      "commune_name_fr": "Ziama Mansouriah"
+    },
+    {
+      "commune_code": "1812",
+      "commune_name_ar": "الولجة بوالبلوط",
+      "commune_name_fr": "El Ouledja Boulbalout"
+    },
+    {
+      "commune_code": "1813",
+      "commune_name_ar": "بني ياجيس",
+      "commune_name_fr": "Beni Yahia"
+    },
+    {
+      "commune_code": "1814",
+      "commune_name_ar": "تكسنة",
+      "commune_name_fr": "Texenna"
+    },
+    {
+      "commune_code": "1815",
+      "commune_name_ar": "السطارة",
+      "commune_name_fr": "Settara"
+    },
+    {
+      "commune_code": "1816",
+      "commune_name_ar": "بودريعة بني ياجيس",
+      "commune_name_fr": "Boudriaa Beni Yadjis"
+    },
+    {
+      "commune_code": "1817",
+      "commune_name_ar": "بوسيف أولاد عسكر",
+      "commune_name_fr": "Boussif Ouled Askeur"
+    },
+    {
+      "commune_code": "1818",
+      "commune_name_ar": "وجانة",
+      "commune_name_fr": "Ouadjana"
+    },
+    {
+      "commune_code": "1819",
+      "commune_name_ar": "بوراوي بلهادف",
+      "commune_name_fr": "Bouraoui Belhadef"
+    },
+    {
+      "commune_code": "1820",
+      "commune_name_ar": "إراقن سويسي",
+      "commune_name_fr": "Erraguene Souissi"
+    }
+  ]
+}
+,{
+  "wilaya_code": "19",
+  "wilaya_name_ar": "سطيف",
+  "wilaya_name_fr": "Sétif",
+  "delivery_price": 550,
+  "communes": [
+    {
+      "commune_code": "1901",
+      "commune_name_ar": "سطيف",
+      "commune_name_fr": "Sétif"
+    },
+    {
+      "commune_code": "1902",
+      "commune_name_ar": "عين أرنات",
+      "commune_name_fr": "Ain Arnat"
+    },
+    {
+      "commune_code": "1903",
+      "commune_name_ar": "عين ولمان",
+      "commune_name_fr": "Ain Oulmene"
+    },
+    {
+      "commune_code": "1904",
+      "commune_name_ar": "العلمة",
+      "commune_name_fr": "El Eulma"
+    },
+    {
+      "commune_code": "1905",
+      "commune_name_ar": "بوقاعة",
+      "commune_name_fr": "Bougaa"
+    },
+    {
+      "commune_code": "1906",
+      "commune_name_ar": "عين الكبيرة",
+      "commune_name_fr": "Ain Kebira"
+    },
+    {
+      "commune_code": "1907",
+      "commune_name_ar": "بني عزيز",
+      "commune_name_fr": "Beni Aziz"
+    },
+    {
+      "commune_code": "1908",
+      "commune_name_ar": "بيضاء برج",
+      "commune_name_fr": "Beidha Bordj"
+    },
+    {
+      "commune_code": "1909",
+      "commune_name_ar": "بوعنداس",
+      "commune_name_fr": "Bouandas"
+    },
+    {
+      "commune_code": "1910",
+      "commune_name_ar": "عين عباسة",
+      "commune_name_fr": "Ain Abessa"
+    },
+    {
+      "commune_code": "1911",
+      "commune_name_ar": "القصر",
+      "commune_name_fr": "El Ksar"
+    },
+    {
+      "commune_code": "1912",
+      "commune_name_ar": "بابور",
+      "commune_name_fr": "Babors"
+    },
+    {
+      "commune_code": "1913",
+      "commune_name_ar": "جميلة",
+      "commune_name_fr": "Djemila"
+    },
+    {
+      "commune_code": "1914",
+      "commune_name_ar": "ذراع قبيلة",
+      "commune_name_fr": "Draa Kebila"
+    },
+    {
+      "commune_code": "1915",
+      "commune_name_ar": "عين الروى",
+      "commune_name_fr": "Ain Roua"
+    },
+    {
+      "commune_code": "1916",
+      "commune_name_ar": "حمام السخنة",
+      "commune_name_fr": "Hammam Soukhna"
+    },
+    {
+      "commune_code": "1917",
+      "commune_name_ar": "بني ورتيلان",
+      "commune_name_fr": "Beni Ourtilane"
+    },
+    {
+      "commune_code": "1918",
+      "commune_name_ar": "قجال",
+      "commune_name_fr": "Guidjel"
+    },
+    {
+      "commune_code": "1919",
+      "commune_name_ar": "صالح باي",
+      "commune_name_fr": "Salah Bey"
+    },
+    {
+      "commune_code": "1920",
+      "commune_name_ar": "تالة إيفاسن",
+      "commune_name_fr": "Tala Ifacene"
+    }
+  ]
+},
+{
+  "wilaya_code": "20",
+  "wilaya_name_ar": "سعيدة",
+  "wilaya_name_fr": "Saïda",
+  "delivery_price": 750,
+  "communes": [
+    {
+      "commune_code": "2001",
+      "commune_name_ar": "سعيدة",
+      "commune_name_fr": "Saïda"
+    },
+    {
+      "commune_code": "2002",
+      "commune_name_ar": "عين الحجر",
+      "commune_name_fr": "Ain El Hadjar"
+    },
+    {
+      "commune_code": "2003",
+      "commune_name_ar": "يوب",
+      "commune_name_fr": "Youb"
+    },
+    {
+      "commune_code": "2004",
+      "commune_name_ar": "دوي ثابت",
+      "commune_name_fr": "Doui Thabet"
+    },
+    {
+      "commune_code": "2005",
+      "commune_name_ar": "عين السخونة",
+      "commune_name_fr": "Ain Sekhouna"
+    },
+    {
+      "commune_code": "2006",
+      "commune_name_ar": "الحساسنة",
+      "commune_name_fr": "El Hassasna"
+    },
+    {
+      "commune_code": "2007",
+      "commune_name_ar": "سيدي أعمر",
+      "commune_name_fr": "Sidi Ahmed"
+    },
+    {
+      "commune_code": "2008",
+      "commune_name_ar": "مولاي العربي",
+      "commune_name_fr": "Moulay Larbi"
+    },
+    {
+      "commune_code": "2009",
+      "commune_name_ar": "سيدي بوبكر",
+      "commune_name_fr": "Sidi Boubekeur"
+    },
+    {
+      "commune_code": "2010",
+      "commune_name_ar": "تامسنة",
+      "commune_name_fr": "Tamesna"
+    },
+    {
+      "commune_code": "2011",
+      "commune_name_ar": "أولاد خالد",
+      "commune_name_fr": "Ouled Khaled"
+    },
+    {
+      "commune_code": "2012",
+      "commune_name_ar": "هونت",
+      "commune_name_fr": "Hounet"
+    },
+    {
+      "commune_code": "2013",
+      "commune_name_ar": "المعمورة",
+      "commune_name_fr": "Maamora"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "21",
+  "wilaya_name_ar": "سكيكدة",
+  "wilaya_name_fr": "Skikda",
+  "delivery_price": 650,
+  "communes": [
+    {
+      "commune_code": "2101",
+      "commune_name_ar": "سكيكدة",
+      "commune_name_fr": "Skikda"
+    },
+    {
+      "commune_code": "2102",
+      "commune_name_ar": "عزابة",
+      "commune_name_fr": "Azzaba"
+    },
+    {
+      "commune_code": "2103",
+      "commune_name_ar": "الحروش",
+      "commune_name_fr": "El Harrouch"
+    },
+    {
+      "commune_code": "2104",
+      "commune_name_ar": "رمضان جمال",
+      "commune_name_fr": "Ramdan Djamel"
+    },
+    {
+      "commune_code": "2105",
+      "commune_name_ar": "عين قشرة",
+      "commune_name_fr": "Ain Kechra"
+    },
+    {
+      "commune_code": "2106",
+      "commune_name_ar": "الحدائق",
+      "commune_name_fr": "El Hadaiek"
+    },
+    {
+      "commune_code": "2107",
+      "commune_name_ar": "القل",
+      "commune_name_fr": "Collo"
+    },
+    {
+      "commune_code": "2108",
+      "commune_name_ar": "عين الزويت",
+      "commune_name_fr": "Ain Zouit"
+    },
+    {
+      "commune_code": "2109",
+      "commune_name_ar": "بكوش لخضر",
+      "commune_name_fr": "Bekkouche Lakhdar"
+    },
+    {
+      "commune_code": "2110",
+      "commune_name_ar": "بني بشير",
+      "commune_name_fr": "Beni Bechir"
+    },
+    {
+      "commune_code": "2111",
+      "commune_name_ar": "السبت",
+      "commune_name_fr": "Es Sebt"
+    },
+    {
+      "commune_code": "2112",
+      "commune_name_ar": "فلفلة",
+      "commune_name_fr": "Filfila"
+    },
+    {
+      "commune_code": "2113",
+      "commune_name_ar": "جندل سعيدي محمد",
+      "commune_name_fr": "Djendel Saadi Mohamed"
+    },
+    {
+      "commune_code": "2114",
+      "commune_name_ar": "كركرة",
+      "commune_name_fr": "Kerkara"
+    },
+    {
+      "commune_code": "2115",
+      "commune_name_ar": "أم الطوب",
+      "commune_name_fr": "Oum Toub"
+    },
+    {
+      "commune_code": "2116",
+      "commune_name_ar": "رغاية",
+      "commune_name_fr": "Ramdane"
+    },
+    {
+      "commune_code": "2117",
+      "commune_name_ar": "تمالوس",
+      "commune_name_fr": "Tamalous"
+    },
+    {
+      "commune_code": "2118",
+      "commune_name_ar": "المرسى",
+      "commune_name_fr": "El Marsa"
+    },
+    {
+      "commune_code": "2119",
+      "commune_name_ar": "عين شرشار",
+      "commune_name_fr": "Ain Charchar"
+    },
+    {
+      "commune_code": "2120",
+      "commune_name_ar": "سيدي مزغيش",
+      "commune_name_fr": "Sidi Mezghiche"
+    }
+  ]
+},
+{
+  "wilaya_code": "22",
+  "wilaya_name_ar": "سيدي بلعباس",
+  "wilaya_name_fr": "Sidi Bel Abbès",
+  "delivery_price": 650,
+  "communes": [
+    {
+      "commune_code": "2201",
+      "commune_name_ar": "سيدي بلعباس",
+      "commune_name_fr": "Sidi Bel Abbès"
+    },
+    {
+      "commune_code": "2202",
+      "commune_name_ar": "بن باديس",
+      "commune_name_fr": "Ben Badis"
+    },
+    {
+      "commune_code": "2203",
+      "commune_name_ar": "سفيزف",
+      "commune_name_fr": "Sfisef"
+    },
+    {
+      "commune_code": "2204",
+      "commune_name_ar": "تلاغ",
+      "commune_name_fr": "Telagh"
+    },
+    {
+      "commune_code": "2205",
+      "commune_name_ar": "مصطفى بن إبراهيم",
+      "commune_name_fr": "Moustafa Ben Brahim"
+    },
+    {
+      "commune_code": "2206",
+      "commune_name_ar": "مرحوم",
+      "commune_name_fr": "Merhoum"
+    },
+    {
+      "commune_code": "2207",
+      "commune_name_ar": "عين البرد",
+      "commune_name_fr": "Ain El Berd"
+    },
+    {
+      "commune_code": "2208",
+      "commune_name_ar": "تسالة",
+      "commune_name_fr": "Tessala"
+    },
+    {
+      "commune_code": "2209",
+      "commune_name_ar": "تنيرة",
+      "commune_name_fr": "Tenira"
+    },
+    {
+      "commune_code": "2210",
+      "commune_name_ar": "مرين",
+      "commune_name_fr": "Mérine"
+    },
+    {
+      "commune_code": "2211",
+      "commune_name_ar": "وادي السبع",
+      "commune_name_fr": "Oued Sebaa"
+    },
+    {
+      "commune_code": "2212",
+      "commune_name_ar": "حاسي زهانة",
+      "commune_name_fr": "Hassi Zahana"
+    },
+    {
+      "commune_code": "2213",
+      "commune_name_ar": "سيدي علي بن يوب",
+      "commune_name_fr": "Sidi Ali Benyoub"
+    },
+    {
+      "commune_code": "2214",
+      "commune_name_ar": "تلموني",
+      "commune_name_fr": "Telmouni"
+    },
+    {
+      "commune_code": "2215",
+      "commune_name_ar": "بوخنفيس",
+      "commune_name_fr": "Boukanefis"
+    },
+    {
+      "commune_code": "2216",
+      "commune_name_ar": "زروالة",
+      "commune_name_fr": "Zerouala"
+    },
+    {
+      "commune_code": "2217",
+      "commune_name_ar": "بني تالة",
+      "commune_name_fr": "Beni Tella"
+    },
+    {
+      "commune_code": "2218",
+      "commune_name_ar": "عين عدان",
+      "commune_name_fr": "Ain Adden"
+    },
+    {
+      "commune_code": "2219",
+      "commune_name_ar": "عين تندامين",
+      "commune_name_fr": "Ain Tindamine"
+    },
+    {
+      "commune_code": "2220",
+      "commune_name_ar": "مرحوم",
+      "commune_name_fr": "Merhoum"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "23",
+  "wilaya_name_ar": "عنابة",
+  "wilaya_name_fr": "Annaba",
+  "delivery_price": 550,
+  "communes": [
+    {
+      "commune_code": "2301",
+      "commune_name_ar": "عنابة",
+      "commune_name_fr": "Annaba"
+    },
+    {
+      "commune_code": "2302",
+      "commune_name_ar": "البوني",
+      "commune_name_fr": "El Bouni"
+    },
+    {
+      "commune_code": "2303",
+      "commune_name_ar": "برحال",
+      "commune_name_fr": "Berrahal"
+    },
+    {
+      "commune_code": "2304",
+      "commune_name_ar": "الحجار",
+      "commune_name_fr": "El Hadjar"
+    },
+    {
+      "commune_code": "2305",
+      "commune_name_ar": "عين الباردة",
+      "commune_name_fr": "Ain Berda"
+    },
+    {
+      "commune_code": "2306",
+      "commune_name_ar": "شطايبي",
+      "commune_name_fr": "Chetaibi"
+    },
+    {
+      "commune_code": "2307",
+      "commune_name_ar": "سرايدي",
+      "commune_name_fr": "Seraidi"
+    },
+    {
+      "commune_code": "2308",
+      "commune_name_ar": "واد العنب",
+      "commune_name_fr": "Oued El Aneb"
+    },
+    {
+      "commune_code": "2309",
+      "commune_name_ar": "التريعات",
+      "commune_name_fr": "El Eulma"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "24",
+  "wilaya_name_ar": "قالمة",
+  "wilaya_name_fr": "Guelma",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "2401",
+      "commune_name_ar": "قالمة",
+      "commune_name_fr": "Guelma"
+    },
+    {
+      "commune_code": "2402",
+      "commune_name_ar": "بوشقوف",
+      "commune_name_fr": "Bouchegouf"
+    },
+    {
+      "commune_code": "2403",
+      "commune_name_ar": "وادي الزناتي",
+      "commune_name_fr": "Oued Zenati"
+    },
+    {
+      "commune_code": "2404",
+      "commune_name_ar": "عين العربي",
+      "commune_name_fr": "Ain Larbi"
+    },
+    {
+      "commune_code": "2405",
+      "commune_name_ar": "بلخير",
+      "commune_name_fr": "Belkheir"
+    },
+    {
+      "commune_code": "2406",
+      "commune_name_ar": "الفجوج",
+      "commune_name_fr": "El Fedjoudj"
+    },
+    {
+      "commune_code": "2407",
+      "commune_name_ar": "عين مخلوف",
+      "commune_name_fr": "Ain Makhlouf"
+    },
+    {
+      "commune_code": "2408",
+      "commune_name_ar": "هواري بومدين",
+      "commune_name_fr": "Houari Boumediene"
+    },
+    {
+      "commune_code": "2409",
+      "commune_name_ar": "مجاز عمار",
+      "commune_name_fr": "Medjez Amar"
+    },
+    {
+      "commune_code": "2410",
+      "commune_name_ar": "هيليوبوليس",
+      "commune_name_fr": "Heliopolis"
+    },
+    {
+      "commune_code": "2411",
+      "commune_name_ar": "حمام دباغ",
+      "commune_name_fr": "Hammam Debagh"
+    },
+    {
+      "commune_code": "2412",
+      "commune_name_ar": "عين عبيد",
+      "commune_name_fr": "Ain Abid"
+    },
+    {
+      "commune_code": "2413",
+      "commune_name_ar": "بوحمدان",
+      "commune_name_fr": "Bouhamdane"
+    },
+    {
+      "commune_code": "2414",
+      "commune_name_ar": "مجاز الصفاء",
+      "commune_name_fr": "Medjez Sfa"
+    },
+    {
+      "commune_code": "2415",
+      "commune_name_ar": "الدهوارة",
+      "commune_name_fr": "Dahouara"
+    },
+    {
+      "commune_code": "2416",
+      "commune_name_ar": "حمام النبائل",
+      "commune_name_fr": "Hammam N'bail"
+    },
+    {
+      "commune_code": "2417",
+      "commune_name_ar": "وادي الشحم",
+      "commune_name_fr": "Oued Cheham"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "25",
+  "wilaya_name_ar": "قسنطينة",
+  "wilaya_name_fr": "Constantine",
+  "delivery_price": 550,
+  "communes": [
+    {
+      "commune_code": "2501",
+      "commune_name_ar": "قسنطينة",
+      "commune_name_fr": "Constantine"
+    },
+    {
+      "commune_code": "2502",
+      "commune_name_ar": "الخروب",
+      "commune_name_fr": "El Khroub"
+    },
+    {
+      "commune_code": "2503",
+      "commune_name_ar": "عين عبيد",
+      "commune_name_fr": "Ain Abid"
+    },
+    {
+      "commune_code": "2504",
+      "commune_name_ar": "حامة بوزيان",
+      "commune_name_fr": "Hamma Bouziane"
+    },
+    {
+      "commune_code": "2505",
+      "commune_name_ar": "ديدوش مراد",
+      "commune_name_fr": "Didouche Mourad"
+    },
+    {
+      "commune_code": "2506",
+      "commune_name_ar": "زيغود يوسف",
+      "commune_name_fr": "Zighoud Youcef"
+    },
+    {
+      "commune_code": "2507",
+      "commune_name_ar": "ابن باديس",
+      "commune_name_fr": "Ibn Ziad"
+    },
+    {
+      "commune_code": "2508",
+      "commune_name_ar": "عين السمارة",
+      "commune_name_fr": "Ain Smara"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "26",
+  "wilaya_name_ar": "المدية",
+  "wilaya_name_fr": "Médéa",
+  "delivery_price": 600,
+  "communes": [
+    {
+      "commune_code": "2601",
+      "commune_name_ar": "المدية",
+      "commune_name_fr": "Médéa"
+    },
+    {
+      "commune_code": "2602",
+      "commune_name_ar": "البرواقية",
+      "commune_name_fr": "Berrouaghia"
+    },
+    {
+      "commune_code": "2603",
+      "commune_name_ar": "قصر البخاري",
+      "commune_name_fr": "Ksar El Boukhari"
+    },
+    {
+      "commune_code": "2604",
+      "commune_name_ar": "بني سليمان",
+      "commune_name_fr": "Beni Slimane"
+    },
+    {
+      "commune_code": "2605",
+      "commune_name_ar": "العمارية",
+      "commune_name_fr": "El Omaria"
+    },
+    {
+      "commune_code": "2606",
+      "commune_name_ar": "الشهبونية",
+      "commune_name_fr": "Chahbounia"
+    },
+    {
+      "commune_code": "2607",
+      "commune_name_ar": "سغوان",
+      "commune_name_fr": "Seghouane"
+    },
+    {
+      "commune_code": "2608",
+      "commune_name_ar": "عزيز",
+      "commune_name_fr": "Aziz"
+    },
+    {
+      "commune_code": "2609",
+      "commune_name_ar": "الزوبيرية",
+      "commune_name_fr": "Zoubiria"
+    },
+    {
+      "commune_code": "2610",
+      "commune_name_ar": "الحمدانية",
+      "commune_name_fr": "El Hamdania"
+    },
+    {
+      "commune_code": "2611",
+      "commune_name_ar": "بوسكن",
+      "commune_name_fr": "Bouskene"
+    },
+    {
+      "commune_code": "2612",
+      "commune_name_ar": "تافراوت",
+      "commune_name_fr": "Tafraout"
+    },
+    {
+      "commune_code": "2613",
+      "commune_name_ar": "أولاد معرف",
+      "commune_name_fr": "Ouled Maaref"
+    },
+    {
+      "commune_code": "2614",
+      "commune_name_ar": "بوغار",
+      "commune_name_fr": "Boghar"
+    },
+    {
+      "commune_code": "2615",
+      "commune_name_ar": "عين بوسيف",
+      "commune_name_fr": "Ain Boucif"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "27",
+  "wilaya_name_ar": "مستغانم",
+  "wilaya_name_fr": "Mostaganem",
+  "delivery_price": 600,
+  "communes": [
+    {
+      "commune_code": "2701",
+      "commune_name_ar": "مستغانم",
+      "commune_name_fr": "Mostaganem"
+    },
+    {
+      "commune_code": "2702",
+      "commune_name_ar": "عين تادلس",
+      "commune_name_fr": "Ain Tedles"
+    },
+    {
+      "commune_code": "2703",
+      "commune_name_ar": "حاسي ماماش",
+      "commune_name_fr": "Hassi Mameche"
+    },
+    {
+      "commune_code": "2704",
+      "commune_name_ar": "سيدي علي",
+      "commune_name_fr": "Sidi Ali"
+    },
+    {
+      "commune_code": "2705",
+      "commune_name_ar": "سيدي بلعطار",
+      "commune_name_fr": "Sidi Belattar"
+    },
+    {
+      "commune_code": "2706",
+      "commune_name_ar": "سيدي لخضر",
+      "commune_name_fr": "Sidi Lakhdar"
+    },
+    {
+      "commune_code": "2707",
+      "commune_name_ar": "عشعاشة",
+      "commune_name_fr": "Achaacha"
+    },
+    {
+      "commune_code": "2708",
+      "commune_name_ar": "عين النويصي",
+      "commune_name_fr": "Ain Nouissy"
+    },
+    {
+      "commune_code": "2709",
+      "commune_name_ar": "الخير",
+      "commune_name_fr": "El Kheir"
+    },
+    {
+      "commune_code": "2710",
+      "commune_name_ar": "فرناكة",
+      "commune_name_fr": "Fornaka"
+    },
+    {
+      "commune_code": "2711",
+      "commune_name_ar": "بوقيراط",
+      "commune_name_fr": "Bouguirat"
+    },
+    {
+      "commune_code": "2712",
+      "commune_name_ar": "الصفصاف",
+      "commune_name_fr": "Safsaf"
+    },
+    {
+      "commune_code": "2713",
+      "commune_name_ar": "مزغران",
+      "commune_name_fr": "Mazagran"
+    },
+    {
+      "commune_code": "2714",
+      "commune_name_ar": "نكمارية",
+      "commune_name_fr": "Nekmaria"
+    },
+    {
+      "commune_code": "2715",
+      "commune_name_ar": "حجاج",
+      "commune_name_fr": "Hadjaj"
+    }
+  ]
+},
+{
+  "wilaya_code": "28",
+  "wilaya_name_ar": "المسيلة",
+  "wilaya_name_fr": "M'Sila",
+  "delivery_price": 650,
+  "communes": [
+    {
+      "commune_code": "2801",
+      "commune_name_ar": "المسيلة",
+      "commune_name_fr": "M'Sila"
+    },
+    {
+      "commune_code": "2802",
+      "commune_name_ar": "مقرة",
+      "commune_name_fr": "Magra"
+    },
+    {
+      "commune_code": "2803",
+      "commune_name_ar": "برهوم",
+      "commune_name_fr": "Berhoum"
+    },
+    {
+      "commune_code": "2804",
+      "commune_name_ar": "عين الحجل",
+      "commune_name_fr": "Ain El Hadjel"
+    },
+    {
+      "commune_code": "2805",
+      "commune_name_ar": "سيدي عيسى",
+      "commune_name_fr": "Sidi Aissa"
+    },
+    {
+      "commune_code": "2806",
+      "commune_name_ar": "حمام الضلعة",
+      "commune_name_fr": "Hammam Dalaa"
+    },
+    {
+      "commune_code": "2807",
+      "commune_name_ar": "سيدي هجرس",
+      "commune_name_fr": "Sidi Hadjeres"
+    },
+    {
+      "commune_code": "2808",
+      "commune_name_ar": "عين الملح",
+      "commune_name_fr": "Ain Melouk"
+    },
+    {
+      "commune_code": "2809",
+      "commune_name_ar": "بوسعادة",
+      "commune_name_fr": "Bousaada"
+    },
+    {
+      "commune_code": "2810",
+      "commune_name_ar": "خبانة",
+      "commune_name_fr": "Khoubana"
+    },
+    {
+      "commune_code": "2811",
+      "commune_name_ar": "بن سرور",
+      "commune_name_fr": "Ben Srour"
+    },
+    {
+      "commune_code": "2812",
+      "commune_name_ar": "المعاضيد",
+      "commune_name_fr": "Maadid"
+    },
+    {
+      "commune_code": "2813",
+      "commune_name_ar": "تامسة",
+      "commune_name_fr": "Tamsa"
+    },
+    {
+      "commune_code": "2814",
+      "commune_name_ar": "ونوغة",
+      "commune_name_fr": "Ouanougha"
+    },
+    {
+      "commune_code": "2815",
+      "commune_name_ar": "مجدل",
+      "commune_name_fr": "Medjedel"
+    }
+  ]
+},
+{
+  "wilaya_code": "29",
+  "wilaya_name_ar": "معسكر",
+  "wilaya_name_fr": "Mascara",
+  "delivery_price": 650,
+  "communes": [
+    {
+      "commune_code": "2901",
+      "commune_name_ar": "معسكر",
+      "commune_name_fr": "Mascara"
+    },
+    {
+      "commune_code": "2902",
+      "commune_name_ar": "غريس",
+      "commune_name_fr": "Ghriss"
+    },
+    {
+      "commune_code": "2903",
+      "commune_name_ar": "تيزي",
+      "commune_name_fr": "Tizi"
+    },
+    {
+      "commune_code": "2904",
+      "commune_name_ar": "الحشم",
+      "commune_name_fr": "El Hachem"
+    },
+    {
+      "commune_code": "2905",
+      "commune_name_ar": "عين فكان",
+      "commune_name_fr": "Ain Fekan"
+    },
+    {
+      "commune_code": "2906",
+      "commune_name_ar": "بنيان",
+      "commune_name_fr": "Benian"
+    },
+    {
+      "commune_code": "2907",
+      "commune_name_ar": "بوحنيفية",
+      "commune_name_fr": "Bouhanifia"
+    },
+    {
+      "commune_code": "2908",
+      "commune_name_ar": "ماوسة",
+      "commune_name_fr": "Maoussa"
+    },
+    {
+      "commune_code": "2909",
+      "commune_name_ar": "زهانة",
+      "commune_name_fr": "Zahana"
+    },
+    {
+      "commune_code": "2910",
+      "commune_name_ar": "سجرارة",
+      "commune_name_fr": "Segrara"
+    },
+    {
+      "commune_code": "2911",
+      "commune_name_ar": "عين فارس",
+      "commune_name_fr": "Ain Fares"
+    },
+    {
+      "commune_code": "2912",
+      "commune_name_ar": "المحمدية",
+      "commune_name_fr": "Mohammadia"
+    },
+    {
+      "commune_code": "2913",
+      "commune_name_ar": "تيغنيف",
+      "commune_name_fr": "Tighennif"
+    },
+    {
+      "commune_code": "2914",
+      "commune_name_ar": "عوف",
+      "commune_name_fr": "Ouf"
+    },
+    {
+      "commune_code": "2915",
+      "commune_name_ar": "الكرط",
+      "commune_name_fr": "El Guerrara"
+    }
+  ]
+},
+{
+  "wilaya_code": "30",
+  "wilaya_name_ar": "ورقلة",
+  "wilaya_name_fr": "Ouargla",
+  "delivery_price": 800,
+  "communes": [
+    {
+      "commune_code": "3001",
+      "commune_name_ar": "ورقلة",
+      "commune_name_fr": "Ouargla"
+    },
+    {
+      "commune_code": "3002",
+      "commune_name_ar": "حاسي مسعود",
+      "commune_name_fr": "Hassi Messaoud"
+    },
+    {
+      "commune_code": "3003",
+      "commune_name_ar": "الرويسات",
+      "commune_name_fr": "Rouissat"
+    },
+    {
+      "commune_code": "3004",
+      "commune_name_ar": "سيدي خويلد",
+      "commune_name_fr": "Sidi Khouiled"
+    },
+    {
+      "commune_code": "3005",
+      "commune_name_ar": "الطيبات",
+      "commune_name_fr": "Taibet"
+    },
+    {
+      "commune_code": "3006",
+      "commune_name_ar": "توقرت",
+      "commune_name_fr": "Touggourt"
+    },
+    {
+      "commune_code": "3007",
+      "commune_name_ar": "النقر",
+      "commune_name_fr": "N'Goussa"
+    },
+    {
+      "commune_code": "3008",
+      "commune_name_ar": "البرمة",
+      "commune_name_fr": "El Borma"
+    },
+    {
+      "commune_code": "3009",
+      "commune_name_ar": "عين البيضاء",
+      "commune_name_fr": "Ain Beida"
+    },
+    {
+      "commune_code": "3010",
+      "commune_name_ar": "بلدة أعمر",
+      "commune_name_fr": "Blidet Amor"
+    },
+    {
+      "commune_code": "3011",
+      "commune_name_ar": "المقارين",
+      "commune_name_fr": "El M'Ghair"
+    },
+    {
+      "commune_code": "3012",
+      "commune_name_ar": "سيدي سليمان",
+      "commune_name_fr": "Sidi Slimane"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "31",
+  "wilaya_name_ar": "وهران",
+  "wilaya_name_fr": "Oran",
+  "delivery_price": 500,
+  "communes": [
+    {
+      "commune_code": "3101",
+      "commune_name_ar": "وهران",
+      "commune_name_fr": "Oran"
+    },
+    {
+      "commune_code": "3102",
+      "commune_name_ar": "أرزيو",
+      "commune_name_fr": "Arzew"
+    },
+    {
+      "commune_code": "3103",
+      "commune_name_ar": "بطيوة",
+      "commune_name_fr": "Bethioua"
+    },
+    {
+      "commune_code": "3104",
+      "commune_name_ar": "قديل",
+      "commune_name_fr": "Gdyel"
+    },
+    {
+      "commune_code": "3105",
+      "commune_name_ar": "حاسي بونيف",
+      "commune_name_fr": "Hassi Bounif"
+    },
+    {
+      "commune_code": "3106",
+      "commune_name_ar": "السانية",
+      "commune_name_fr": "Es Senia"
+    },
+    {
+      "commune_code": "3107",
+      "commune_name_ar": "وادي تليلات",
+      "commune_name_fr": "Oued Tlelat"
+    },
+    {
+      "commune_code": "3108",
+      "commune_name_ar": "بئر الجير",
+      "commune_name_fr": "Bir El Djir"
+    },
+    {
+      "commune_code": "3109",
+      "commune_name_ar": "مرسى الحجاج",
+      "commune_name_fr": "Marsat El Hadjadj"
+    },
+    {
+      "commune_code": "3110",
+      "commune_name_ar": "عين الترك",
+      "commune_name_fr": "Ain Turk"
+    },
+    {
+      "commune_code": "3111",
+      "commune_name_ar": "الكرمة",
+      "commune_name_fr": "El Kerma"
+    },
+    {
+      "commune_code": "3112",
+      "commune_name_ar": "حاسي مفسوخ",
+      "commune_name_fr": "Hassi Mefsoukh"
+    },
+    {
+      "commune_code": "3113",
+      "commune_name_ar": "مسيردة",
+      "commune_name_fr": "Mers El Hadjadj"
+    },
+    {
+      "commune_code": "3114",
+      "commune_name_ar": "سيدي الشحمي",
+      "commune_name_fr": "Sidi Chami"
+    },
+    {
+      "commune_code": "3115",
+      "commune_name_ar": "عين البيضاء",
+      "commune_name_fr": "Ain Beida"
+    }
+  ]
+},
+{
+  "wilaya_code": "32",
+  "wilaya_name_ar": "البيض",
+  "wilaya_name_fr": "El Bayadh",
+  "delivery_price": 850,
+  "communes": [
+    {
+      "commune_code": "3201",
+      "commune_name_ar": "البيض",
+      "commune_name_fr": "El Bayadh"
+    },
+    {
+      "commune_code": "3202",
+      "commune_name_ar": "بوقطب",
+      "commune_name_fr": "Bougtoub"
+    },
+    {
+      "commune_code": "3203",
+      "commune_name_ar": "رقاصة",
+      "commune_name_fr": "Rogassa"
+    },
+    {
+      "commune_code": "3204",
+      "commune_name_ar": "الأبيض سيدي الشيخ",
+      "commune_name_fr": "El Abiodh Sidi Cheikh"
+    },
+    {
+      "commune_code": "3205",
+      "commune_name_ar": "بوسمغون",
+      "commune_name_fr": "Boussemghoun"
+    },
+    {
+      "commune_code": "3206",
+      "commune_name_ar": "كراكدة",
+      "commune_name_fr": "Krakda"
+    },
+    {
+      "commune_code": "3207",
+      "commune_name_ar": "المشرية",
+      "commune_name_fr": "El Mehara"
+    },
+    {
+      "commune_code": "3208",
+      "commune_name_ar": "شلالة",
+      "commune_name_fr": "Chellala"
+    },
+    {
+      "commune_code": "3209",
+      "commune_name_ar": "عين العراك",
+      "commune_name_fr": "Ain El Orak"
+    },
+    {
+      "commune_code": "3210",
+      "commune_name_ar": "الكاف الأحمر",
+      "commune_name_fr": "Kef El Ahmar"
+    },
+    {
+      "commune_code": "3211",
+      "commune_name_ar": "الغاسول",
+      "commune_name_fr": "Ghassoul"
+    },
+    {
+      "commune_code": "3212",
+      "commune_name_ar": "توسمولين",
+      "commune_name_fr": "Tousmouline"
+    },
+    {
+      "commune_code": "3213",
+      "commune_name_ar": "سيدي عامر",
+      "commune_name_fr": "Sidi Ameur"
+    },
+    {
+      "commune_code": "3214",
+      "commune_name_ar": "البنود",
+      "commune_name_fr": "El Bnoud"
+    },
+    {
+      "commune_code": "3215",
+      "commune_name_ar": "تبيض",
+      "commune_name_fr": "Cheguig"
+    }
+  ]
+},
+{
+  "wilaya_code": "33",
+  "wilaya_name_ar": "إليزي",
+  "wilaya_name_fr": "Illizi",
+  "delivery_price": 1300,
+  "communes": [
+    {
+      "commune_code": "3301",
+      "commune_name_ar": "إليزي",
+      "commune_name_fr": "Illizi"
+    },
+    {
+      "commune_code": "3302",
+      "commune_name_ar": "إن أميناس",
+      "commune_name_fr": "In Amenas"
+    },
+    {
+      "commune_code": "3303",
+      "commune_name_ar": "دجانيت",
+      "commune_name_fr": "Djanet"
+    },
+    {
+      "commune_code": "3304",
+      "commune_name_ar": "برج الحواس",
+      "commune_name_fr": "Bordj El Haouas"
+    },
+    {
+      "commune_code": "3305",
+      "commune_name_ar": "برج عمر إدريس",
+      "commune_name_fr": "Bordj Omar Driss"
+    }
+  ]
+},
+{
+  "wilaya_code": "34",
+  "wilaya_name_ar": "برج بوعريريج",
+  "wilaya_name_fr": "Bordj Bou Arréridj",
+  "delivery_price": 600,
+  "communes": [
+    {
+      "commune_code": "3401",
+      "commune_name_ar": "برج بوعريريج",
+      "commune_name_fr": "Bordj Bou Arréridj"
+    },
+    {
+      "commune_code": "3402",
+      "commune_name_ar": "رأس الوادي",
+      "commune_name_fr": "Ras El Oued"
+    },
+    {
+      "commune_code": "3403",
+      "commune_name_ar": "العناصر",
+      "commune_name_fr": "El Annasseur"
+    },
+    {
+      "commune_code": "3404",
+      "commune_name_ar": "برج الغدير",
+      "commune_name_fr": "Bordj Ghedir"
+    },
+    {
+      "commune_code": "3405",
+      "commune_name_ar": "الحمادية",
+      "commune_name_fr": "El Hamadia"
+    },
+    {
+      "commune_code": "3406",
+      "commune_name_ar": "المنصورة",
+      "commune_name_fr": "Mansoura"
+    },
+    {
+      "commune_code": "3407",
+      "commune_name_ar": "خليل",
+      "commune_name_fr": "Khelil"
+    },
+    {
+      "commune_code": "3408",
+      "commune_name_ar": "عين تاغروت",
+      "commune_name_fr": "Ain Taghrout"
+    },
+    {
+      "commune_code": "3409",
+      "commune_name_ar": "تفرق",
+      "commune_name_fr": "Tefreg"
+    },
+    {
+      "commune_code": "3410",
+      "commune_name_ar": "الماين",
+      "commune_name_fr": "El Main"
+    },
+    {
+      "commune_code": "3411",
+      "commune_name_ar": "تسالة لمطاعي",
+      "commune_name_fr": "Tassala Lematai"
+    },
+    {
+      "commune_code": "3412",
+      "commune_name_ar": "بن داود",
+      "commune_name_fr": "Ben Daoud"
+    },
+    {
+      "commune_code": "3413",
+      "commune_name_ar": "برج زمورة",
+      "commune_name_fr": "Bordj Zemoura"
+    },
+    {
+      "commune_code": "3414",
+      "commune_name_ar": "الغفيرات",
+      "commune_name_fr": "El Ghifri"
+    },
+    {
+      "commune_code": "3415",
+      "commune_name_ar": "عين جرجور",
+      "commune_name_fr": "Ain Jerjer"
+    },
+    {
+      "commune_code": "3416",
+      "commune_name_ar": "غيلاسة",
+      "commune_name_fr": "Ghilassa"
+    },
+    {
+      "commune_code": "3417",
+      "commune_name_ar": "حرازة",
+      "commune_name_fr": "Haraza"
+    },
+    {
+      "commune_code": "3418",
+      "commune_name_ar": "أولاد دحمان",
+      "commune_name_fr": "Ouled Dahmane"
+    },
+    {
+      "commune_code": "3419",
+      "commune_name_ar": "تقلعيت",
+      "commune_name_fr": "Taglait"
+    },
+    {
+      "commune_code": "3420",
+      "commune_name_ar": "مجانة",
+      "commune_name_fr": "Medjana"
+    },
+    {
+      "commune_code": "3421",
+      "commune_name_ar": "أولاد سيدي إبراهيم",
+      "commune_name_fr": "Ouled Sidi Brahim"
+    },
+    {
+      "commune_code": "3422",
+      "commune_name_ar": "المهير",
+      "commune_name_fr": "El M'hir"
+    },
+    {
+      "commune_code": "3423",
+      "commune_name_ar": "القصور",
+      "commune_name_fr": "El K'sour"
+    }
+  ]
+},
+{
+  "wilaya_code": "35",
+  "wilaya_name_ar": "بومرداس",
+  "wilaya_name_fr": "Boumerdès",
+  "delivery_price": 500,
+  "communes": [
+    {
+      "commune_code": "3501",
+      "commune_name_ar": "بومرداس",
+      "commune_name_fr": "Boumerdès"
+    },
+    {
+      "commune_code": "3502",
+      "commune_name_ar": "برج منايل",
+      "commune_name_fr": "Bordj Menaiel"
+    },
+    {
+      "commune_code": "3503",
+      "commune_name_ar": "دلس",
+      "commune_name_fr": "Dellys"
+    },
+    {
+      "commune_code": "3504",
+      "commune_name_ar": "خميس الخشنة",
+      "commune_name_fr": "Khemis El Khechna"
+    },
+    {
+      "commune_code": "3505",
+      "commune_name_ar": "بودواو",
+      "commune_name_fr": "Boudouaou"
+    },
+    {
+      "commune_code": "3506",
+      "commune_name_ar": "سي مصطفى",
+      "commune_name_fr": "Si Mustapha"
+    },
+    {
+      "commune_code": "3507",
+      "commune_name_ar": "الثنية",
+      "commune_name_fr": "Thenia"
+    },
+    {
+      "commune_code": "3508",
+      "commune_name_ar": "زموري",
+      "commune_name_fr": "Zemmouri"
+    },
+    {
+      "commune_code": "3509",
+      "commune_name_ar": "الناصرية",
+      "commune_name_fr": "Naciria"
+    },
+    {
+      "commune_code": "3510",
+      "commune_name_ar": "شعبة العامر",
+      "commune_name_fr": "Souk El Had"
+    },
+    {
+      "commune_code": "3511",
+      "commune_name_ar": "تورقة",
+      "commune_name_fr": "Tidjelabine"
+    },
+    {
+      "commune_code": "3512",
+      "commune_name_ar": "عزازقة",
+      "commune_name_fr": "Afir"
+    },
+    {
+      "commune_code": "3513",
+      "commune_name_ar": "جنات",
+      "commune_name_fr": "Djinet"
+    },
+    {
+      "commune_code": "3514",
+      "commune_name_ar": "تاورقة",
+      "commune_name_fr": "Taourga"
+    },
+    {
+      "commune_code": "3515",
+      "commune_name_ar": "لقاطة",
+      "commune_name_fr": "Legata"
+    },
+    {
+      "commune_code": "3516",
+      "commune_name_ar": "بني عمران",
+      "commune_name_fr": "Beni Amrane"
+    },
+    {
+      "commune_code": "3517",
+      "commune_name_ar": "أولاد عيسى",
+      "commune_name_fr": "Ouled Aissa"
+    },
+    {
+      "commune_code": "3518",
+      "commune_name_ar": "قدارة",
+      "commune_name_fr": "Keddara"
+    },
+    {
+      "commune_code": "3519",
+      "commune_name_ar": "بن شود",
+      "commune_name_fr": "Ben Choud"
+    },
+    {
+      "commune_code": "3520",
+      "commune_name_ar": "أعفير",
+      "commune_name_fr": "Afir"
+    },
+    {
+      "commune_code": "3521",
+      "commune_name_ar": "سيدي داود",
+      "commune_name_fr": "Sidi Daoud"
+    },
+    {
+      "commune_code": "3522",
+      "commune_name_ar": "أولاد هداج",
+      "commune_name_fr": "Ouled Hedadj"
+    },
+    {
+      "commune_code": "3523",
+      "commune_name_ar": "تيجلابين",
+      "commune_name_fr": "Tidjelabine"
+    }
+  ]
+},
+{
+  "wilaya_code": "36",
+  "wilaya_name_ar": "الطارف",
+  "wilaya_name_fr": "El Tarf",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "3601",
+      "commune_name_ar": "الطارف",
+      "commune_name_fr": "El Tarf"
+    },
+    {
+      "commune_code": "3602",
+      "commune_name_ar": "بوحجار",
+      "commune_name_fr": "Bouhadjar"
+    },
+    {
+      "commune_code": "3603",
+      "commune_name_ar": "البسباس",
+      "commune_name_fr": "Besbes"
+    },
+    {
+      "commune_code": "3604",
+      "commune_name_ar": "بوحنيش",
+      "commune_name_fr": "Bouhniche"
+    },
+    {
+      "commune_code": "3605",
+      "commune_name_ar": "عين العسل",
+      "commune_name_fr": "Ain Assel"
+    },
+    {
+      "commune_code": "3606",
+      "commune_name_ar": "العيون",
+      "commune_name_fr": "El Aioun"
+    },
+    {
+      "commune_code": "3607",
+      "commune_name_ar": "الذرعان",
+      "commune_name_fr": "Drean"
+    },
+    {
+      "commune_code": "3608",
+      "commune_name_ar": "الشط",
+      "commune_name_fr": "Chetaibi"
+    },
+    {
+      "commune_code": "3609",
+      "commune_name_ar": "المرسى",
+      "commune_name_fr": "El Marsa"
+    },
+    {
+      "commune_code": "3610",
+      "commune_name_ar": "القالة",
+      "commune_name_fr": "El Kala"
+    },
+    {
+      "commune_code": "3611",
+      "commune_name_ar": "الزيتونة",
+      "commune_name_fr": "Zitouna"
+    },
+    {
+      "commune_code": "3612",
+      "commune_name_ar": "أم الطبول",
+      "commune_name_fr": "Oum Teboul"
+    },
+    {
+      "commune_code": "3613",
+      "commune_name_ar": "بوقوس",
+      "commune_name_fr": "Bouguos"
+    },
+    {
+      "commune_code": "3614",
+      "commune_name_ar": "رمل السوق",
+      "commune_name_fr": "Raml Souk"
+    },
+    {
+      "commune_code": "3615",
+      "commune_name_ar": "الزوارق",
+      "commune_name_fr": "Zouara"
+    },
+    {
+      "commune_code": "3616",
+      "commune_name_ar": "الشافية",
+      "commune_name_fr": "Chafia"
+    },
+    {
+      "commune_code": "3617",
+      "commune_name_ar": "عين الكرمة",
+      "commune_name_fr": "Ain Kerma"
+    },
+    {
+      "commune_code": "3618",
+      "commune_name_ar": "بريحان",
+      "commune_name_fr": "Berrihane"
+    },
+    {
+      "commune_code": "3619",
+      "commune_name_ar": "الشرايع",
+      "commune_name_fr": "Cheraia"
+    },
+    {
+      "commune_code": "3620",
+      "commune_name_ar": "الزويتينة",
+      "commune_name_fr": "Zouitina"
+    },
+    {
+      "commune_code": "3621",
+      "commune_name_ar": "حمام بني صالح",
+      "commune_name_fr": "Hammam Beni Salah"
+    },
+    {
+      "commune_code": "3622",
+      "commune_name_ar": "وادي العسل",
+      "commune_name_fr": "Oued Assel"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "37",
+  "wilaya_name_ar": "تندوف",
+  "wilaya_name_fr": "Tindouf",
+  "delivery_price": 1300,
+  "communes": [
+    {
+      "commune_code": "3701",
+      "commune_name_ar": "تندوف",
+      "commune_name_fr": "Tindouf"
+    },
+    {
+      "commune_code": "3702",
+      "commune_name_ar": "أم العسل",
+      "commune_name_fr": "Oum El Assel"
+    }
+  ]
+},
+{
+  "wilaya_code": "38",
+  "wilaya_name_ar": "تيسمسيلت",
+  "wilaya_name_fr": "Tissemsilt",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "3801",
+      "commune_name_ar": "تيسمسيلت",
+      "commune_name_fr": "Tissemsilt"
+    },
+    {
+      "commune_code": "3802",
+      "commune_name_ar": "برج الأمير عبد القادر",
+      "commune_name_fr": "Bordj Emir Abdelkader"
+    },
+    {
+      "commune_code": "3803",
+      "commune_name_ar": "لرجام",
+      "commune_name_fr": "Lardjem"
+    },
+    {
+      "commune_code": "3804",
+      "commune_name_ar": "سيدي سليمان",
+      "commune_name_fr": "Sidi Slimane"
+    },
+    {
+      "commune_code": "3805",
+      "commune_name_ar": "تملاحت",
+      "commune_name_fr": "Theniet El Had"
+    },
+    {
+      "commune_code": "3806",
+      "commune_name_ar": "خميستي",
+      "commune_name_fr": "Khemisti"
+    },
+    {
+      "commune_code": "3807",
+      "commune_name_ar": "الأزهرية",
+      "commune_name_fr": "Ammari"
+    },
+    {
+      "commune_code": "3808",
+      "commune_name_ar": "عماري",
+      "commune_name_fr": "Ammari"
+    },
+    {
+      "commune_code": "3809",
+      "commune_name_ar": "اليوسفية",
+      "commune_name_fr": "Youssoufia"
+    },
+    {
+      "commune_code": "3810",
+      "commune_name_ar": "سيدي بوتوشنت",
+      "commune_name_fr": "Sidi Boutouchent"
+    },
+    {
+      "commune_code": "3811",
+      "commune_name_ar": "الأربعاء",
+      "commune_name_fr": "Larbaa"
+    },
+    {
+      "commune_code": "3812",
+      "commune_name_ar": "برج بونعامة",
+      "commune_name_fr": "Bordj Bounaama"
+    },
+    {
+      "commune_code": "3813",
+      "commune_name_ar": "سيدي عابد",
+      "commune_name_fr": "Sidi Abed"
+    },
+    {
+      "commune_code": "3814",
+      "commune_name_ar": "ملعب",
+      "commune_name_fr": "Melaab"
+    },
+    {
+      "commune_code": "3815",
+      "commune_name_ar": "سوقر",
+      "commune_name_fr": "Souk El Had"
+    },
+    {
+      "commune_code": "3816",
+      "commune_name_ar": "بوقايد",
+      "commune_name_fr": "Boukaid"
+    },
+    {
+      "commune_code": "3817",
+      "commune_name_ar": "ثنية الحد",
+      "commune_name_fr": "Theniet El Had"
+    },
+    {
+      "commune_code": "3818",
+      "commune_name_ar": "سيدي العنتري",
+      "commune_name_fr": "Sidi Lantri"
+    },
+    {
+      "commune_code": "3819",
+      "commune_name_ar": "تملاحت",
+      "commune_name_fr": "Tamellahet"
+    },
+    {
+      "commune_code": "3820",
+      "commune_name_ar": "الأزهرية",
+      "commune_name_fr": "Ammari"
+    }
+  ]
+},
+{
+  "wilaya_code": "39",
+  "wilaya_name_ar": "الوادي",
+  "wilaya_name_fr": "El Oued",
+  "delivery_price": 800,
+  "communes": [
+    {
+      "commune_code": "3901",
+      "commune_name_ar": "الوادي",
+      "commune_name_fr": "El Oued"
+    },
+    {
+      "commune_code": "3902",
+      "commune_name_ar": "الرباح",
+      "commune_name_fr": "Robbah"
+    },
+    {
+      "commune_code": "3903",
+      "commune_name_ar": "حاسي خليفة",
+      "commune_name_fr": "Hassi Khalifa"
+    },
+    {
+      "commune_code": "3904",
+      "commune_name_ar": "الطالب العربي",
+      "commune_name_fr": "Taleb Larbi"
+    },
+    {
+      "commune_code": "3905",
+      "commune_name_ar": "بن قشة",
+      "commune_name_fr": "Ben Guecha"
+    },
+    {
+      "commune_code": "3906",
+      "commune_name_ar": "الحمراية",
+      "commune_name_fr": "El Hamraia"
+    },
+    {
+      "commune_code": "3907",
+      "commune_name_ar": "وادي العلندة",
+      "commune_name_fr": "Oued Alenda"
+    },
+    {
+      "commune_code": "3908",
+      "commune_name_ar": "الدبيلة",
+      "commune_name_fr": "Debila"
+    },
+    {
+      "commune_code": "3909",
+      "commune_name_ar": "قمار",
+      "commune_name_fr": "Guemar"
+    },
+    {
+      "commune_code": "3910",
+      "commune_name_ar": "تغزوت",
+      "commune_name_fr": "Taghzout"
+    },
+    {
+      "commune_code": "3911",
+      "commune_name_ar": "الميهى",
+      "commune_name_fr": "Mih Ouensa"
+    },
+    {
+      "commune_code": "3912",
+      "commune_name_ar": "النخلة",
+      "commune_name_fr": "Nakhla"
+    },
+    {
+      "commune_code": "3913",
+      "commune_name_ar": "الرقيبة",
+      "commune_name_fr": "Reguiba"
+    },
+    {
+      "commune_code": "3914",
+      "commune_name_ar": "البياضة",
+      "commune_name_fr": "Bayadha"
+    },
+    {
+      "commune_code": "3915",
+      "commune_name_ar": "سيدي عون",
+      "commune_name_fr": "Sidi Aoun"
+    },
+    {
+      "commune_code": "3916",
+      "commune_name_ar": "ورماس",
+      "commune_name_fr": "Ourmas"
+    },
+    {
+      "commune_code": "3917",
+      "commune_name_ar": "عين البيضاء",
+      "commune_name_fr": "Ain Beida"
+    },
+    {
+      "commune_code": "3918",
+      "commune_name_ar": "الحمامات",
+      "commune_name_fr": "Hammamet"
+    },
+    {
+      "commune_code": "3919",
+      "commune_name_ar": "دوار الماء",
+      "commune_name_fr": "Douar El Ma"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "40",
+  "wilaya_name_ar": "خنشلة",
+  "wilaya_name_fr": "Khenchela",
+  "delivery_price": 700,
+  "communes": [
+    {
+      "commune_code": "4001",
+      "commune_name_ar": "خنشلة",
+      "commune_name_fr": "Khenchela"
+    },
+    {
+      "commune_code": "4002",
+      "commune_name_ar": "بابار",
+      "commune_name_fr": "Babar"
+    },
+    {
+      "commune_code": "4003",
+      "commune_name_ar": "ششار",
+      "commune_name_fr": "Cherchar"
+    },
+    {
+      "commune_code": "4004",
+      "commune_name_ar": "قايس",
+      "commune_name_fr": "Kaïs"
+    },
+    {
+      "commune_code": "4005",
+      "commune_name_ar": "متوسة",
+      "commune_name_fr": "M'toussa"
+    },
+    {
+      "commune_code": "4006",
+      "commune_name_ar": "يابقورين",
+      "commune_name_fr": "Yabous"
+    },
+    {
+      "commune_code": "4007",
+      "commune_name_ar": "أولاد رشاش",
+      "commune_name_fr": "Ouled Rechache"
+    },
+    {
+      "commune_code": "4008",
+      "commune_name_ar": "المحمل",
+      "commune_name_fr": "El Mahmal"
+    },
+    {
+      "commune_code": "4009",
+      "commune_name_ar": "تاوزيانت",
+      "commune_name_fr": "Taouzianat"
+    },
+    {
+      "commune_code": "4010",
+      "commune_name_ar": "بوحمامة",
+      "commune_name_fr": "Bouhmama"
+    },
+    {
+      "commune_code": "4011",
+      "commune_name_ar": "أنسيغة",
+      "commune_name_fr": "Ensigha"
+    },
+    {
+      "commune_code": "4012",
+      "commune_name_ar": "الحامة",
+      "commune_name_fr": "El Hamma"
+    },
+    {
+      "commune_code": "4013",
+      "commune_name_ar": "جلال",
+      "commune_name_fr": "Djellal"
+    },
+    {
+      "commune_code": "4014",
+      "commune_name_ar": "الرميلة",
+      "commune_name_fr": "Remila"
+    },
+    {
+      "commune_code": "4015",
+      "commune_name_ar": "مصارة",
+      "commune_name_fr": "Msara"
+    },
+    {
+      "commune_code": "4016",
+      "commune_name_ar": "إشقارة",
+      "commune_name_fr": "Chakara"
+    },
+    {
+      "commune_code": "4017",
+      "commune_name_ar": "طامزة",
+      "commune_name_fr": "Tamza"
+    },
+    {
+      "commune_code": "4018",
+      "commune_name_ar": "شلية",
+      "commune_name_fr": "Chelia"
+    }
+  ]
+},
+{
+  "wilaya_code": "41",
+  "wilaya_name_ar": "سوق أهراس",
+  "wilaya_name_fr": "Souk Ahras",
+  "delivery_price": 800,
+  "communes": [
+    {
+      "commune_code": "4101",
+      "commune_name_ar": "سوق أهراس",
+      "commune_name_fr": "Souk Ahras"
+    },
+    {
+      "commune_code": "4102",
+      "commune_name_ar": "تاورة",
+      "commune_name_fr": "Taoura"
+    },
+    {
+      "commune_code": "4103",
+      "commune_name_ar": "الزعرورية",
+      "commune_name_fr": "Zaarouria"
+    },
+    {
+      "commune_code": "4104",
+      "commune_name_ar": "الحدادة",
+      "commune_name_fr": "Haddada"
+    },
+    {
+      "commune_code": "4105",
+      "commune_name_ar": "أم العظايم",
+      "commune_name_fr": "Oum El Adhaim"
+    },
+    {
+      "commune_code": "4106",
+      "commune_name_ar": "سدراتة",
+      "commune_name_fr": "Sedrata"
+    },
+    {
+      "commune_code": "4107",
+      "commune_name_ar": "مداوروش",
+      "commune_name_fr": "M'daourouch"
+    },
+    {
+      "commune_code": "4108",
+      "commune_name_ar": "الراقوبة",
+      "commune_name_fr": "Ragouba"
+    },
+    {
+      "commune_code": "4109",
+      "commune_name_ar": "عين سنور",
+      "commune_name_fr": "Ain Zana"
+    },
+    {
+      "commune_code": "4110",
+      "commune_name_ar": "عين سلطان",
+      "commune_name_fr": "Ain Soltane"
+    },
+    {
+      "commune_code": "4111",
+      "commune_name_ar": "المشروحة",
+      "commune_name_fr": "Mechroha"
+    },
+    {
+      "commune_code": "4112",
+      "commune_name_ar": "بئر بوحوش",
+      "commune_name_fr": "Bir Bouhouche"
+    },
+    {
+      "commune_code": "4113",
+      "commune_name_ar": "وادي الكبريت",
+      "commune_name_fr": "Oued Kebrit"
+    },
+    {
+      "commune_code": "4114",
+      "commune_name_ar": "أولاد إدريس",
+      "commune_name_fr": "Ouled Driss"
+    },
+    {
+      "commune_code": "4115",
+      "commune_name_ar": "عين العربي",
+      "commune_name_fr": "Ain Arbi"
+    },
+    {
+      "commune_code": "4116",
+      "commune_name_ar": "الحنانشة",
+      "commune_name_fr": "Hanancha"
+    },
+    {
+      "commune_code": "4117",
+      "commune_name_ar": "سيدي فرج",
+      "commune_name_fr": "Sidi Fredj"
+    },
+    {
+      "commune_code": "4118",
+      "commune_name_ar": "بئر بوحوش",
+      "commune_name_fr": "Bir Bouhouche"
+    },
+    {
+      "commune_code": "4119",
+      "commune_name_ar": "أولاد مؤمن",
+      "commune_name_fr": "Ouled Moumen"
+    },
+    {
+      "commune_code": "4120",
+      "commune_name_ar": "الزوي",
+      "commune_name_fr": "Zouabi"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "42",
+  "wilaya_name_ar": "تيبازة",
+  "wilaya_name_fr": "Tipaza",
+  "delivery_price": 500,
+  "communes": [
+    {
+      "commune_code": "4201",
+      "commune_name_ar": "تيبازة",
+      "commune_name_fr": "Tipaza"
+    },
+    {
+      "commune_code": "4202",
+      "commune_name_ar": "الحطاطبة",
+      "commune_name_fr": "Hattatba"
+    },
+    {
+      "commune_code": "4203",
+      "commune_name_ar": "بورقيقة",
+      "commune_name_fr": "Bourkika"
+    },
+    {
+      "commune_code": "4204",
+      "commune_name_ar": "أحمر العين",
+      "commune_name_fr": "Ahmer El Ain"
+    },
+    {
+      "commune_code": "4205",
+      "commune_name_ar": "عين تاقورايت",
+      "commune_name_fr": "Ain Tagourait"
+    },
+    {
+      "commune_code": "4206",
+      "commune_name_ar": "الشعيبة",
+      "commune_name_fr": "Chaiba"
+    },
+    {
+      "commune_code": "4207",
+      "commune_name_ar": "القليعة",
+      "commune_name_fr": "Kolea"
+    },
+    {
+      "commune_code": "4208",
+      "commune_name_ar": "بواسماعيل",
+      "commune_name_fr": "Bou Ismail"
+    },
+    {
+      "commune_code": "4209",
+      "commune_name_ar": "خميستي",
+      "commune_name_fr": "Khemisti"
+    },
+    {
+      "commune_code": "4210",
+      "commune_name_ar": "حجوط",
+      "commune_name_fr": "Hadjout"
+    },
+    {
+      "commune_code": "4211",
+      "commune_name_ar": "مراد",
+      "commune_name_fr": "Mouzaia"
+    },
+    {
+      "commune_code": "4212",
+      "commune_name_ar": "سيدي راشد",
+      "commune_name_fr": "Sidi Rached"
+    },
+    {
+      "commune_code": "4213",
+      "commune_name_ar": "سيدي عامر",
+      "commune_name_fr": "Sidi Amar"
+    },
+    {
+      "commune_code": "4214",
+      "commune_name_ar": "سيدي غيلاس",
+      "commune_name_fr": "Sidi Ghiles"
+    },
+    {
+      "commune_code": "4215",
+      "commune_name_ar": "الناظور",
+      "commune_name_fr": "Nador"
+    },
+    {
+      "commune_code": "4216",
+      "commune_name_ar": "شرشال",
+      "commune_name_fr": "Cherchell"
+    },
+    {
+      "commune_code": "4217",
+      "commune_name_ar": "مسامدة",
+      "commune_name_fr": "Messelmoun"
+    },
+    {
+      "commune_code": "4218",
+      "commune_name_ar": "أغبال",
+      "commune_name_fr": "Aghbal"
+    },
+    {
+      "commune_code": "4219",
+      "commune_name_ar": "الداموس",
+      "commune_name_fr": "Damous"
+    },
+    {
+      "commune_code": "4220",
+      "commune_name_ar": "سيدي سميان",
+      "commune_name_fr": "Sidi Semiane"
+    },
+    {
+      "commune_code": "4221",
+      "commune_name_ar": "بني ميلك",
+      "commune_name_fr": "Beni Milleuk"
+    }
+  ]
+},
+{
+  "wilaya_code": "43",
+  "wilaya_name_ar": "ميلة",
+  "wilaya_name_fr": "Mila",
+  "delivery_price": 650,
+  "communes": [
+    {
+      "commune_code": "4301",
+      "commune_name_ar": "ميلة",
+      "commune_name_fr": "Mila"
+    },
+    {
+      "commune_code": "4302",
+      "commune_name_ar": "فرجيوة",
+      "commune_name_fr": "Ferdjioua"
+    },
+    {
+      "commune_code": "4303",
+      "commune_name_ar": "وادي العثمانية",
+      "commune_name_fr": "Oued Athmenia"
+    },
+    {
+      "commune_code": "4304",
+      "commune_name_ar": "تلاغمة",
+      "commune_name_fr": "Telerghma"
+    },
+    {
+      "commune_code": "4305",
+      "commune_name_ar": "شلغوم العيد",
+      "commune_name_fr": "Chelghoum Laid"
+    },
+    {
+      "commune_code": "4306",
+      "commune_name_ar": "عين البيضاء حريش",
+      "commune_name_fr": "Ain Beida Harriche"
+    },
+    {
+      "commune_code": "4307",
+      "commune_name_ar": "تيبرقنت",
+      "commune_name_fr": "Tiberguent"
+    },
+    {
+      "commune_code": "4308",
+      "commune_name_ar": "المشيرة",
+      "commune_name_fr": "El Mechira"
+    },
+    {
+      "commune_code": "4309",
+      "commune_name_ar": "عين التين",
+      "commune_name_fr": "Ain Tine"
+    },
+    {
+      "commune_code": "4310",
+      "commune_name_ar": "تسدان حدادة",
+      "commune_name_fr": "Tassadane Haddada"
+    },
+    {
+      "commune_code": "4311",
+      "commune_name_ar": "مينار زارزة",
+      "commune_name_fr": "Minar Zarza"
+    },
+    {
+      "commune_code": "4312",
+      "commune_name_ar": "زغاية",
+      "commune_name_fr": "Zeghaia"
+    },
+    {
+      "commune_code": "4313",
+      "commune_name_ar": "أولاد خلوف",
+      "commune_name_fr": "Ouled Khalouf"
+    },
+    {
+      "commune_code": "4314",
+      "commune_name_ar": "القرارم قوقة",
+      "commune_name_fr": "Grarem Gouga"
+    },
+    {
+      "commune_code": "4315",
+      "commune_name_ar": "واد النجاء",
+      "commune_name_fr": "Oued Endja"
+    },
+    {
+      "commune_code": "4316",
+      "commune_name_ar": "بوحاتم",
+      "commune_name_fr": "Bouhatem"
+    },
+    {
+      "commune_code": "4317",
+      "commune_name_ar": "تاجنانت",
+      "commune_name_fr": "Tadjenanet"
+    },
+    {
+      "commune_code": "4318",
+      "commune_name_ar": "أحمد راشدي",
+      "commune_name_fr": "Ahmed Rachedi"
+    },
+    {
+      "commune_code": "4319",
+      "commune_name_ar": "سيدي مروان",
+      "commune_name_fr": "Sidi Merouane"
+    },
+    {
+      "commune_code": "4320",
+      "commune_name_ar": "ترعي باينان",
+      "commune_name_fr": "Terrai Bainen"
+    },
+    {
+      "commune_code": "4321",
+      "commune_name_ar": "العياضي برباس",
+      "commune_name_fr": "El Ayadi Barbes"
+    },
+    {
+      "commune_code": "4322",
+      "commune_name_ar": "أولاد قاسم",
+      "commune_name_fr": "Ouled Kacem"
+    },
+    {
+      "commune_code": "4323",
+      "commune_name_ar": "سوق نعمان",
+      "commune_name_fr": "Souk Nouman"
+    },
+    {
+      "commune_code": "4324",
+      "commune_name_ar": "بن يحيى عبد الرحمن",
+      "commune_name_fr": "Benyahia Abderrahmane"
+    },
+    {
+      "commune_code": "4325",
+      "commune_name_ar": "الميعاد",
+      "commune_name_fr": "Mechta Fatima"
+    }
+  ]
+},
+{
+  "wilaya_code": "44",
+  "wilaya_name_ar": "عين الدفلى",
+  "wilaya_name_fr": "Aïn Defla",
+  "delivery_price": 600,
+  "communes": [
+    {
+      "commune_code": "4401",
+      "commune_name_ar": "عين الدفلى",
+      "commune_name_fr": "Aïn Defla"
+    },
+    {
+      "commune_code": "4402",
+      "commune_name_ar": "العبادية",
+      "commune_name_fr": "El Abadia"
+    },
+    {
+      "commune_code": "4403",
+      "commune_name_ar": "بريزينة",
+      "commune_name_fr": "Bir Ould Khelifa"
+    },
+    {
+      "commune_code": "4404",
+      "commune_name_ar": "العامرة",
+      "commune_name_fr": "El Amra"
+    },
+    {
+      "commune_code": "4405",
+      "commune_name_ar": "الحسينية",
+      "commune_name_fr": "Hassania"
+    },
+    {
+      "commune_code": "4406",
+      "commune_name_ar": "برج الأمير خالد",
+      "commune_name_fr": "Bordj Emir Khaled"
+    },
+    {
+      "commune_code": "4407",
+      "commune_name_ar": "حمام ريغة",
+      "commune_name_fr": "Hammam Righa"
+    },
+    {
+      "commune_code": "4408",
+      "commune_name_ar": "خميس مليانة",
+      "commune_name_fr": "Khemis Miliana"
+    },
+    {
+      "commune_code": "4409",
+      "commune_name_ar": "جندل",
+      "commune_name_fr": "Djendel"
+    },
+    {
+      "commune_code": "4410",
+      "commune_name_ar": "عين الأشياخ",
+      "commune_name_fr": "Aïn Lechiekh"
+    },
+    {
+      "commune_code": "4411",
+      "commune_name_ar": "الماين",
+      "commune_name_fr": "El Main"
+    },
+    {
+      "commune_code": "4412",
+      "commune_name_ar": "عين بويحيى",
+      "commune_name_fr": "Aïn Bouyahia"
+    },
+    {
+      "commune_code": "4413",
+      "commune_name_ar": "وادي الشرفاء",
+      "commune_name_fr": "Oued Cherf"
+    },
+    {
+      "commune_code": "4414",
+      "commune_name_ar": "بطحية",
+      "commune_name_fr": "Bathia"
+    },
+    {
+      "commune_code": "4415",
+      "commune_name_ar": "الروينة",
+      "commune_name_fr": "Rouina"
+    },
+    {
+      "commune_code": "4416",
+      "commune_name_ar": "زكري",
+      "commune_name_fr": "Zeddine"
+    },
+    {
+      "commune_code": "4417",
+      "commune_name_ar": "المعاصم",
+      "commune_name_fr": "El Massem"
+    },
+    {
+      "commune_code": "4418",
+      "commune_name_ar": "عين السلطان",
+      "commune_name_fr": "Aïn Soltane"
+    },
+    {
+      "commune_code": "4419",
+      "commune_name_ar": "البلعاج",
+      "commune_name_fr": "Bellaa"
+    },
+    {
+      "commune_code": "4420",
+      "commune_name_ar": "وادي الجمعة",
+      "commune_name_fr": "Oued Djemaa"
+    },
+    {
+      "commune_code": "4421",
+      "commune_name_ar": "واد الفضة",
+      "commune_name_fr": "Oued Fodda"
+    },
+    {
+      "commune_code": "4422",
+      "commune_name_ar": "العطاف",
+      "commune_name_fr": "El Attaf"
+    },
+    {
+      "commune_code": "4423",
+      "commune_name_ar": "عريب",
+      "commune_name_fr": "Arib"
+    },
+    {
+      "commune_code": "4424",
+      "commune_name_ar": "برج الأمير عبد القادر",
+      "commune_name_fr": "Bordj Emir Abdelkader"
+    },
+    {
+      "commune_code": "4425",
+      "commune_name_ar": "عريب",
+      "commune_name_fr": "Arib"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "45",
+  "wilaya_name_ar": "النعامة",
+  "wilaya_name_fr": "Naâma",
+  "delivery_price": 900,
+  "communes": [
+    {
+      "commune_code": "4501",
+      "commune_name_ar": "النعامة",
+      "commune_name_fr": "Naâma"
+    },
+    {
+      "commune_code": "4502",
+      "commune_name_ar": "عين الصفراء",
+      "commune_name_fr": "Aïn Sefra"
+    },
+    {
+      "commune_code": "4503",
+      "commune_name_ar": "مغرار",
+      "commune_name_fr": "Mecheria"
+    },
+    {
+      "commune_code": "4504",
+      "commune_name_ar": "مشرية",
+      "commune_name_fr": "Méchéria"
+    },
+    {
+      "commune_code": "4505",
+      "commune_name_ar": "عين بن خليل",
+      "commune_name_fr": "Aïn Ben Khelil"
+    },
+    {
+      "commune_code": "4506",
+      "commune_name_ar": "القصدير",
+      "commune_name_fr": "El Kasdir"
+    },
+    {
+      "commune_code": "4507",
+      "commune_name_ar": "عسلة",
+      "commune_name_fr": "Asla"
+    },
+    {
+      "commune_code": "4508",
+      "commune_name_ar": "جنين بورزق",
+      "commune_name_fr": "Djéniane Bourzeg"
+    },
+    {
+      "commune_code": "4509",
+      "commune_name_ar": "مغرار",
+      "commune_name_fr": "Moghrar"
+    }
+  ]
+},
+{
+  "wilaya_code": "46",
+  "wilaya_name_ar": "عين تموشنت",
+  "wilaya_name_fr": "Aïn Témouchent",
+  "delivery_price": 600,
+  "communes": [
+    {
+      "commune_code": "4601",
+      "commune_name_ar": "عين تموشنت",
+      "commune_name_fr": "Aïn Témouchent"
+    },
+    {
+      "commune_code": "4602",
+      "commune_name_ar": "بني صاف",
+      "commune_name_fr": "Beni Saf"
+    },
+    {
+      "commune_code": "4603",
+      "commune_name_ar": "المالح",
+      "commune_name_fr": "El Malah"
+    },
+    {
+      "commune_code": "4604",
+      "commune_name_ar": "شعبة اللحم",
+      "commune_name_fr": "Chaabet El Ham"
+    },
+    {
+      "commune_code": "4605",
+      "commune_name_ar": "عين الطلبة",
+      "commune_name_fr": "Aïn Tolba"
+    },
+    {
+      "commune_code": "4606",
+      "commune_name_ar": "العامرية",
+      "commune_name_fr": "El Amria"
+    },
+    {
+      "commune_code": "4607",
+      "commune_name_ar": "حاسي الغلة",
+      "commune_name_fr": "Hassi El Ghella"
+    },
+    {
+      "commune_code": "4608",
+      "commune_name_ar": "حمام بوحجر",
+      "commune_name_fr": "Hammam Bouhadjar"
+    },
+    {
+      "commune_code": "4609",
+      "commune_name_ar": "أولاد الكيحل",
+      "commune_name_fr": "Ouled Kihal"
+    },
+    {
+      "commune_code": "4610",
+      "commune_name_ar": "المالح",
+      "commune_name_fr": "El Malah"
+    },
+    {
+      "commune_code": "4611",
+      "commune_name_ar": "تمزوغة",
+      "commune_name_fr": "Tamzoura"
+    },
+    {
+      "commune_code": "4612",
+      "commune_name_ar": "عين الأربعاء",
+      "commune_name_fr": "Aïn El Arbaa"
+    }
+  ]
+},
+{
+  "wilaya_code": "47",
+  "wilaya_name_ar": "غرداية",
+  "wilaya_name_fr": "Ghardaïa",
+  "delivery_price": 800,
+  "communes": [
+    {
+      "commune_code": "4701",
+      "commune_name_ar": "غرداية",
+      "commune_name_fr": "Ghardaïa"
+    },
+    {
+      "commune_code": "4702",
+      "commune_name_ar": "بونورة",
+      "commune_name_fr": "Bounoura"
+    },
+    {
+      "commune_code": "4703",
+      "commune_name_ar": "ضاية بن ضحوة",
+      "commune_name_fr": "Daya Ben Dahoua"
+    },
+    {
+      "commune_code": "4704",
+      "commune_name_ar": "متليلي",
+      "commune_name_fr": "Metlili"
+    },
+    {
+      "commune_code": "4705",
+      "commune_name_ar": "المنصورة",
+      "commune_name_fr": "Mansoura"
+    },
+    {
+      "commune_code": "4706",
+      "commune_name_ar": "القرارة",
+      "commune_name_fr": "El Guerrara"
+    },
+    {
+      "commune_code": "4707",
+      "commune_name_ar": "بريان",
+      "commune_name_fr": "Berriane"
+    },
+    {
+      "commune_code": "4708",
+      "commune_name_ar": "سبسب",
+      "commune_name_fr": "Sebseb"
+    },
+    {
+      "commune_code": "4709",
+      "commune_name_ar": "زلفانة",
+      "commune_name_fr": "Zelfana"
+    }
+  ]
+},
+{
+  "wilaya_code": "48",
+  "wilaya_name_ar": "غليزان",
+  "wilaya_name_fr": "Relizane",
+  "delivery_price": 600,
+  "communes": [
+    {
+      "commune_code": "4801",
+      "commune_name_ar": "غليزان",
+      "commune_name_fr": "Relizane"
+    },
+    {
+      "commune_code": "4802",
+      "commune_name_ar": "وادي رهيو",
+      "commune_name_fr": "Oued Rhiou"
+    },
+    {
+      "commune_code": "4803",
+      "commune_name_ar": "زمورة",
+      "commune_name_fr": "Zemmoura"
+    },
+    {
+      "commune_code": "4804",
+      "commune_name_ar": "عين طارق",
+      "commune_name_fr": "Aïn Tarek"
+    },
+    {
+      "commune_code": "4805",
+      "commune_name_ar": "عمي موسى",
+      "commune_name_fr": "Ammi Moussa"
+    },
+    {
+      "commune_code": "4806",
+      "commune_name_ar": "حمري",
+      "commune_name_fr": "Hamri"
+    },
+    {
+      "commune_code": "4807",
+      "commune_name_ar": "مازونة",
+      "commune_name_fr": "Mazouna"
+    },
+    {
+      "commune_code": "4808",
+      "commune_name_ar": "منداس",
+      "commune_name_fr": "Mendes"
+    },
+    {
+      "commune_code": "4809",
+      "commune_name_ar": "القلعة",
+      "commune_name_fr": "El Kalah"
+    },
+    {
+      "commune_code": "4810",
+      "commune_name_ar": "سيدي امحمد بن علي",
+      "commune_name_fr": "Sidi M'hamed Ben Ali"
+    },
+    {
+      "commune_code": "4811",
+      "commune_name_ar": "يلل",
+      "commune_name_fr": "Yellel"
+    },
+    {
+      "commune_code": "4812",
+      "commune_name_ar": "الرمكة",
+      "commune_name_fr": "Ramka"
+    },
+    {
+      "commune_code": "4813",
+      "commune_name_ar": "المطمر",
+      "commune_name_fr": "El Matmar"
+    },
+    {
+      "commune_code": "4814",
+      "commune_name_ar": "بلعسل بوزقزة",
+      "commune_name_fr": "Belassel Bouzegza"
+    },
+    {
+      "commune_code": "4815",
+      "commune_name_ar": "سوق الحد",
+      "commune_name_fr": "Souk El Had"
+    },
+    {
+      "commune_code": "4816",
+      "commune_name_ar": "سيدي لزرق",
+      "commune_name_fr": "Sidi Lazreg"
+    },
+    {
+      "commune_code": "4817",
+      "commune_name_ar": "لحلاف",
+      "commune_name_fr": "Lahlef"
+    },
+    {
+      "commune_code": "4818",
+      "commune_name_ar": "الحسينية",
+      "commune_name_fr": "El Hassaïne"
+    },
+    {
+      "commune_code": "4819",
+      "commune_name_ar": "عين الرحمة",
+      "commune_name_fr": "Aïn Rahma"
+    },
+    {
+      "commune_code": "4820",
+      "commune_name_ar": "واد السلام",
+      "commune_name_fr": "Oued Essalem"
+    },
+    {
+      "commune_code": "4821",
+      "commune_name_ar": "بن داود",
+      "commune_name_fr": "Bendaoud"
+    },
+    {
+      "commune_code": "4822",
+      "commune_name_ar": "القطار",
+      "commune_name_fr": "El Guettar"
+    },
+    {
+      "commune_code": "4823",
+      "commune_name_ar": "دار بن عبد الله",
+      "commune_name_fr": "Dar Ben Abdellah"
+    },
+    {
+      "commune_code": "4824",
+      "commune_name_ar": "سيدي سعادة",
+      "commune_name_fr": "Sidi Saada"
+    },
+    {
+      "commune_code": "4825",
+      "commune_name_ar": "وادي الجمعة",
+      "commune_name_fr": "Oued El Djemaa"
+    },
+    {
+      "commune_code": "4826",
+      "commune_name_ar": "الحدائق",
+      "commune_name_fr": "El Hadjadj"
+    }
+  ]
+},
+{
+  "wilaya_code": "49",
+  "wilaya_name_ar": "تيميمون",
+  "wilaya_name_fr": "Timimoun",
+  "delivery_price": 1200,
+  "communes": [
+    {
+      "commune_code": "4901",
+      "commune_name_ar": "تيميمون",
+      "commune_name_fr": "Timimoun"
+    },
+    {
+      "commune_code": "4902",
+      "commune_name_ar": "أولاد سعيد",
+      "commune_name_fr": "Ouled Said"
+    },
+    {
+      "commune_code": "4903",
+      "commune_name_ar": "أوقروت",
+      "commune_name_fr": "Aougrout"
+    },
+    {
+      "commune_code": "4904",
+      "commune_name_ar": "متارفة",
+      "commune_name_fr": "Metarfa"
+    },
+    {
+      "commune_code": "4905",
+      "commune_name_ar": "دلدول",
+      "commune_name_fr": "Deldoul"
+    },
+    {
+      "commune_code": "4906",
+      "commune_name_ar": "تينركوك",
+      "commune_name_fr": "Tinerkouk"
+    },
+    {
+      "commune_code": "4907",
+      "commune_name_ar": "قصر قدور",
+      "commune_name_fr": "Ksar Kaddour"
+    },
+    {
+      "commune_code": "4908",
+      "commune_name_ar": "شروين",
+      "commune_name_fr": "Charouine"
+    },
+    {
+      "commune_code": "4909",
+      "commune_name_ar": "تالمين",
+      "commune_name_fr": "Talmine"
+    },
+    {
+      "commune_code": "4910",
+      "commune_name_ar": "أولاد عيسى",
+      "commune_name_fr": "Ouled Aïssa"
+    }
+  ]
+},
+{
+  "wilaya_code": "51",
+  "wilaya_name_ar": "أولاد جلال",
+  "wilaya_name_fr": "Ouled Djellal",
+  "delivery_price": 800,
+  "communes": [
+    {
+      "commune_code": "5101",
+      "commune_name_ar": "أولاد جلال",
+      "commune_name_fr": "Ouled Djellal"
+    },
+    {
+      "commune_code": "5102",
+      "commune_name_ar": "سيدي خالد",
+      "commune_name_fr": "Sidi Khaled"
+    },
+    {
+      "commune_code": "5103",
+      "commune_name_ar": "الشعيبة",
+      "commune_name_fr": "Chaïba"
+    },
+    {
+      "commune_code": "5104",
+      "commune_name_ar": "البسباس",
+      "commune_name_fr": "Besbes"
+    },
+    {
+      "commune_code": "5105",
+      "commune_name_ar": "الدوسن",
+      "commune_name_fr": "Doucen"
+    }
+  ]
+}
+,
+{
+  "wilaya_code": "52",
+  "wilaya_name_ar": "بني عباس",
+  "wilaya_name_fr": "Béni Abbès",
+  "delivery_price": 1000,
+  "communes": [
+    {
+      "commune_code": "5201",
+      "commune_name_ar": "بني عباس",
+      "commune_name_fr": "Béni Abbès"
+    },
+    {
+      "commune_code": "5202",
+      "commune_name_ar": "تبلبالة",
+      "commune_name_fr": "Tabelbala"
+    },
+    {
+      "commune_code": "5203",
+      "commune_name_ar": "إقلي",
+      "commune_name_fr": "Igli"
+    },
+    {
+      "commune_code": "5204",
+      "commune_name_ar": "العبادلة",
+      "commune_name_fr": "El Abiodh Sidi Cheikh"
+    },
+    {
+      "commune_code": "5205",
+      "commune_name_ar": "بني ونيف",
+      "commune_name_fr": "Béni Ounif"
+    },
+    {
+      "commune_code": "5206",
+      "commune_name_ar": "تيمودا",
+      "commune_name_fr": "Timoudi"
+    },
+    {
+      "commune_code": "5207",
+      "commune_name_ar": "كراكدة",
+      "commune_name_fr": "Kerzaz"
+    },
+    {
+      "commune_code": "5208",
+      "commune_name_ar": "أولاد خضير",
+      "commune_name_fr": "Ouled Khoudir"
+    },
+    {
+      "commune_code": "5209",
+      "commune_name_ar": "تامترت",
+      "commune_name_fr": "Tamtert"
+    },
+    {
+      "commune_code": "5210",
+      "commune_name_ar": "بني يخلف",
+      "commune_name_fr": "Beni Ikhlef"
+    }
+  ]
+},
+{
+  "wilaya_code": "53",
+  "wilaya_name_ar": "عين صالح",
+  "wilaya_name_fr": "In Salah",
+  "delivery_price": 1200,
+  "communes": [
+    {
+      "commune_code": "5301",
+      "commune_name_ar": "عين صالح",
+      "commune_name_fr": "In Salah"
+    },
+    {
+      "commune_code": "5302",
+      "commune_name_ar": "فقارة الزوى",
+      "commune_name_fr": "Foggaret Ezzaouia"
+    },
+    {
+      "commune_code": "5303",
+      "commune_name_ar": "عين غار",
+      "commune_name_fr": "Ain Ghar"
+    }
+  ]
+},
+
+{
+  "wilaya_code": "55",
+  "wilaya_name_ar": "تقرت",
+  "wilaya_name_fr": "Touggourt",
+  "delivery_price": 850,
+  "communes": [
+    {
+      "commune_code": "5501",
+      "commune_name_ar": "تقرت",
+      "commune_name_fr": "Touggourt"
+    },
+    {
+      "commune_code": "5502",
+      "commune_name_ar": "نزلة",
+      "commune_name_fr": "Nezla"
+    },
+    {
+      "commune_code": "5503",
+      "commune_name_ar": "تيماسين",
+      "commune_name_fr": "Temacine"
+    },
+    {
+      "commune_code": "5504",
+      "commune_name_ar": "بلدة عمر",
+      "commune_name_fr": "Balidat Ameur"
+    },
+    {
+      "commune_code": "5505",
+      "commune_name_ar": "تماسين",
+      "commune_name_fr": "Tamisene"
+    },
+    {
+      "commune_code": "5506",
+      "commune_name_ar": "الطيبات",
+      "commune_name_fr": "Taibet"
+    },
+    {
+      "commune_code": "5507",
+      "commune_name_ar": "بن ناصر",
+      "commune_name_fr": "Benaceur"
+    },
+    {
+      "commune_code": "5508",
+      "commune_name_ar": "الزاوية العابدية",
+      "commune_name_fr": "Zaouia El Abidia"
+    },
+    {
+      "commune_code": "5509",
+      "commune_name_ar": "المنقر",
+      "commune_name_fr": "Megarine"
+    },
+    {
+      "commune_code": "5510",
+      "commune_name_ar": "جامعة",
+      "commune_name_fr": "Djamaa"
+    },
+    {
+      "commune_code": "5511",
+      "commune_name_ar": "سيدي سليمان",
+      "commune_name_fr": "Sidi Slimane"
+    }
+  ]
+},
+
+{
+  "wilaya_code": "57",
+  "wilaya_name_ar": "المغير",
+  "wilaya_name_fr": "El M'Ghair",
+  "delivery_price": 900,
+  "communes": [
+    {
+      "commune_code": "5701",
+      "commune_name_ar": "المغير",
+      "commune_name_fr": "El M'Ghair"
+    },
+    {
+      "commune_code": "5702",
+      "commune_name_ar": "سيدي خليل",
+      "commune_name_fr": "Sidi Khelil"
+    },
+    {
+      "commune_code": "5703",
+      "commune_name_ar": "تماسين",
+      "commune_name_fr": "Tamisene"
+    },
+    {
+      "commune_code": "5704",
+      "commune_name_ar": "بن ناصر",
+      "commune_name_fr": "Benaceur"
+    },
+    {
+      "commune_code": "5705",
+      "commune_name_ar": "جامعة",
+      "commune_name_fr": "Djamaa"
+    },
+    {
+      "commune_code": "5706",
+      "commune_name_ar": "سيدي سليمان",
+      "commune_name_fr": "Sidi Slimane"
+    },
+    {
+      "commune_code": "5707",
+      "commune_name_ar": "المقرن",
+      "commune_name_fr": "El Meghaier"
+    },
+    {
+      "commune_code": "5708",
+      "commune_name_ar": "وادي ريغ",
+      "commune_name_fr": "Oued Righ"
+    }
+  ]
+},
+{
+  "wilaya_code": "58",
+  "wilaya_name_ar": "المنيعة",
+  "wilaya_name_fr": "El Meniaa",
+  "delivery_price": 900,
+  "communes": [
+    {
+      "commune_code": "5801",
+      "commune_name_ar": "المنيعة",
+      "commune_name_fr": "El Meniaa"
+    },
+    {
+      "commune_code": "5802",
+      "commune_name_ar": "حاسي القارة",
+      "commune_name_fr": "Hassi Gara"
+    },
+    {
+      "commune_code": "5803",
+      "commune_name_ar": "حاسي الفحل",
+      "commune_name_fr": "Hassi Fehal"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
     ]
   }
